@@ -1,0 +1,51 @@
+= Designing One-Shots (Designing Short Dungeons)
+
+* hit all the "pillars"
+	** exploration
+		*** branching paths
+		*** hidden or difficult shortcuts
+		*** hidden or difficult loot
+	** combat
+		*** fewer, more interesting enemies
+		*** varied terrain and room shapes
+		*** PC goals other than "kill all enemies"
+	** roleplay
+		*** NPCs who respond directly to PC actions
+		*** diplomatic ways to circumvent some combat
+		*** hard choices
+* encourage PCs to pursue optional rewards
+	** place secrets everywhere (they won't get them all)
+	** allow PCs to "cash in" partway through (shop or other exchange)
+	** make optional rewards more interesting than the way forward
+
+## Encounter Goals
+
+Impedance:: get past room OR get in and out with object
+* slow, semi-passive monsters (ooze, animated shrub, etc)
+* strong, neutral enemies that easily aggro (sleeping, watching, etc)
+* infinitely spawning or keep getting back up
+
+Ambush:: survive or avoid
+* humanoids or other "smart" enemies, hiding
+* monsters released as a trap
+* can thwart by checking carefully
+
+Regicide:: take out leader
+* summon trash mobs every turn
+* power up for a big move in ~3 turns
+* numerous or strong enemies lose efficacy or retreat when leader is defeated
+
+Defend:: keep enemies at bay
+* protect an NPC or object for ~3 turns
+* survive for ~3 turns
+* use action to either fight or work towards a shared task that ends the combat
+
+Chase:: move faster than enemies
+* get to the device/treasure/exit before the enemy
+* chase an enemy who ran off with something you need
+* fight while staying in a moving safe-zone
+
+Hunt:: kill what you came to kill
+* ramp up enemy abilities to keep combat short and satisfying
+* environment in enemy's favor
+* clues in previous rooms to give away weaknesses, damage types, etc

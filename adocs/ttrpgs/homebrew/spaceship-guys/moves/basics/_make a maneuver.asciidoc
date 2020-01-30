@@ -1,0 +1,16 @@
+☑ Make a Maneuver::
+
+When you're in the pilot's seat and need to dodge incoming damage, make a rough landing, or go really fast, roll +Deft.
+
++
+
+.Edges
+* The ship takes 2-harm less.
+* The crew takes +1 ongoing to Man the Guns.
+* The ship is moved to any spot within sight.
+
++
+
+.Hitches
+* The ship takes 1-harm ignore-armor from the stress of the maneuver.
+* The crew takes -1 forward from the turbulence.

@@ -1,0 +1,222 @@
+/* body */
+body {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	display: flex;
+	flex-direction: row;
+	height: 100vh;
+	overflow: hidden;
+}
+#sidebar {
+	background-color: #eee;
+	width: 300px;
+	display: flex;
+	flex-direction: column;
+}
+#sidebar>* {
+	padding: 15px 20px;
+}
+header, footer {
+	flex-grow: 0;
+	background-color: #ddd;
+}
+#sidebar footer {
+	font-size: 12px;
+}
+main {
+	padding: 20px 50px;
+}
+main>* {
+	max-width: 600px;
+}
+#sidebar nav,
+main {
+	overflow-y: scroll;
+	flex-grow: 1;
+	padding-bottom: 50vh;
+}
+
+/* lists */
+/* TODO: fix for sections without sectionbody */
+nav>.ulist>ul,
+nav>.olist>ol,
+main>.ulist>ul,
+main>.olist>ol,
+.sectionbody>.ulist>ul,
+.sectionbody>.olist>ol {
+	padding-inline-start: 0;
+}
+ul, ol {
+	padding-inline-start: 20px;;
+}
+ul {
+	list-style-type: disc;
+}
+li p {
+	margin: 0;
+}
+
+/* roundness */
+.admonitionblock, table.tableblock {
+	border-radius: 10px;
+	overflow: hidden;
+}
+
+/* nav */
+nav li {
+	display: block;
+	user-select: none;
+}
+nav li li {
+	padding-left: 10px;
+	margin-left: -10px;
+	border-left: 1px solid black;
+}
+nav li p:hover {
+	color: #aaa;
+}
+nav li p:hover~.ulist>ul>li {
+	border-color: #aaa;
+}
+nav li p {
+	display: block;
+}
+nav li a {
+	text-decoration: none;
+	color: inherit;
+}
+.collapsed>.ulist>ul {
+	display: none;
+}
+.collapsed p,
+.expanded p {
+	cursor: pointer;
+}
+.collapsed>p::before,
+.expanded>p::before,
+nav li a::before {
+	font-family: 'Material Icons';
+	display: inline-block;
+	width: 20px;
+}
+nav li a::before {
+	content: 'library_books'; /* consider: notes, note, library_books, attachment, drafts */
+}
+.collapsed>p::before {
+	content: 'folder';
+}
+.expanded>p::before {
+	content: 'folder_open';
+}
+
+/* tables */
+table.tableblock {
+	width: 100%;
+	border-spacing: 0;
+}
+.tableblock td {
+	padding: 0 10px;
+}
+.tableblock th {
+	padding: 10px;
+}
+.tableblock thead {
+	background-color: blue;
+	color: white;
+}
+.tableblock tbody tr:nth-child(odd) {
+	background-color: #eee;
+}
+.tableblock tbody tr:nth-child(even) {
+	background-color: #ddd;
+}
+.tableblock .halign-right {
+	text-align: right;
+}
+.tableblock .halign-left {
+	text-align: left;
+}
+.tableblock .halign-center {
+	text-align: center;
+}
+
+/* admonitions */
+.admonitionblock {
+	background-color: #eee;
+	margin: 10px 0;
+}
+.admonitionblock table {
+	border-spacing: 0;
+}
+.admonitionblock .content {
+	padding: 10px;
+}
+.admonitionblock tr {
+	display: flex;
+	flex-direction: row;
+}
+.admonitionblock td.icon {
+	display: flex;
+}
+.admonitionblock td.icon i {
+	flex-grow: 1;
+	color: white;
+	display: block;
+	padding: 10px;
+}
+
+/* icon font */
+@font-face {
+	font-family: 'Material Icons';
+	font-style: normal;
+	font-weight: 400;
+	src: url(https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2) format('woff2');
+}
+.icon {
+	font-family: 'Material Icons';
+	font-weight: normal;
+	font-style: normal;
+	/*font-size: 24px;*/
+	line-height: 1;
+	letter-spacing: normal;
+	text-transform: none;
+	display: inline-block;
+	white-space: nowrap;
+	word-wrap: normal;
+	direction: ltr;
+	-webkit-font-feature-settings: 'liga';
+	-webkit-font-smoothing: antialiased;
+}
+.icon i {
+	font-style: normal;
+}
+.icon-note {
+	background-color: blue;
+}
+.icon-note::after {
+	content: 'info';
+}
+.icon-tip {
+	background-color: blue;
+}
+.icon-tip::after {
+	content: 'emoji_objects';
+}
+.icon-important {
+	background-color: blue;
+}
+.icon-important::after {
+	content: 'priority_high';
+}
+.icon-caution {
+	background-color: orange;
+}
+.icon-caution::after {
+	content: 'pan_tool';
+}
+.icon-warning {
+	background-color: red;
+}
+.icon-warning::after {
+	content: 'warning';
+}

@@ -1,0 +1,41 @@
+= Moves
+
+Moves are actions that your character can take. Each move has a Trigger ("When..."), an associated Stat, and a list of Edges and Hitches to choose from. Whenever something done by your character triggers a Move, roll 2d6+Stat.
+
+CAUTION: Triggering moves is *not optional*. Keep an eye out for your character's triggers, as well as those of other players.
+
+.outcomes per roll result
+[cols="1,100"]
+|===
+| 2d6+Stat | outcome
+
+| ≥10
+| choose 1 Edge
+
+| 7-9
+| choose 1 Edge and 1 Hitch
+
+| ≤6
+| choose 1 Hitch
+
+|===
+
+== Ship Moves
+
+All characters can do the 5 basic moves.
+
+include::../../Moves/basics/_make a maneuver.asciidoc[]
+
+include::../../Moves/basics/_request support.asciidoc[]
+
+include::../../Moves/basics/_man the guns.asciidoc[]
+
+include::../../Moves/basics/_operate the controls.asciidoc[]
+
+include::../../Moves/basics/_patch up the ship.asciidoc[]
+
+== Signature Moves
+
+When you create your character, mark 2 signature moves. These are unique to your character, and you can unlock more via improvements.
+
+// TODO: signature moves include

@@ -1,0 +1,13 @@
+= Basic Moves
+
+NOTE: All characters can do the basic moves. No need to mark anything in this section.
+
+include::basics/_make a maneuver.asciidoc[leveloffset=+1]
+
+include::basics/_request support.asciidoc[leveloffset=+1]
+
+include::basics/_man the guns.asciidoc[leveloffset=+1]
+
+include::basics/_operate the controls.asciidoc[leveloffset=+1]
+
+include::basics/_patch up the ship.asciidoc[leveloffset=+1]

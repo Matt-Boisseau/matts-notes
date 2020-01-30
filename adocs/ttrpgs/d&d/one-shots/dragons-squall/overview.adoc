@@ -1,0 +1,94 @@
+= Dragons' Squall
+
+"
+Your adventuring party is sailing out on the calm sea--no shores in sight--when the sunny sky begins to fill with dark clouds. Within minutes, the waves grow violent and throw your ship into something unseen beneath the surface.
+"
+-- DM
+
+== Notes
+
+* dragons fighting over rights to Trench Treasure
+
+* attack rolls underwater have disadvantage unless they are from dagger, javelin, shortsword, spear, trident, crossbow, net, dart
+** ranged weapons can only use close-range number
+* soaked creatures have resistance to fire damage
+* move same distance underwater as on land
+
+```
+~~~~~~~ A ~~~~~~~
+_______ | _______ 
+E - D ->B<- G - H
+     \ / \ /
+~~~~~ C   F ~~~~~
+       \ /
+_______ I _______
+```
+
+[cols="1, 5, 10, 5", options="header"]
+|===
+
+| 
+| name
+| brief
+| pillar
+
+| `A`
+| shipwreck
+| you see dragons fighting above... the only way forward is down into the waterlogged caves
+| 
+
+| `B`
+| flotsam alcove
+| you meet some stranded sailors fending off merfolk's crocodiles--they'll help repair your ship, but you won't be able to leave with the dragons quarreling (2 crocodile/turn, 1 wizard trying to reestablish barrier, 3 innocent sailors
+| roleplay and combat (defend)
+
+| `C`
+| luminous pool
+| a merfolk guard sees you and rushes to alert the others (1 merfolk)
+| combat (chase) or roleplay (diplomacy)
+
+| `D`
+| merfolk camp 
+| merfolk go about their business and will attack if PCs are seen (4 merfolk + 2 trained crocodiles), treasure in risky places (easy to pass through if ignoring treasure) [3x500 gp]
+| combat (impedance) or roleplay (diplomacy)
+
+| `E`
+| bronze dragon's lair
+| one dragon must be slain--this one will sell you something to help you kill the other
+| roleplay or combat (hunt)
+
+| `F`
+| stagnant pool
+| poisonous water will hurt you if you touch it, treasure in hard-to-reach spots [3x500 gp]
+| exploration
+
+| `G`
+| swamp cave
+| violet fungus covering way forward, invincible giant crab running around
+| combat (impedance)
+
+| `H`
+| black dragon's lair
+| one dragon must be slain--this one will sell you something to help you kill the other
+| roleplay or combat (hunt)
+
+| `I`
+| treasure trove
+| giant octopus guards a lot of gold underwater, knocks down one of three supports every turn [3k gp]
+| exploration and combat (regicide)
+
+|===
+
+== Dragon's Deals
+
+(total gp: 6k)
+
+[cols="1,10",options="header"]
+|===
+
+| gp | item
+| 2500 | [color] dragon's trident - 1d6 (1d8 versatile; thrown 20/60; other dragon is weak to it)
+| 500 | fins of swimming (when in water, dash as bonus action, no combat disadvantage)
+| 100 | healing potion - 2d4+2
+
+|===

@@ -1,0 +1,408 @@
+= Tomb of Treasure
+
+== Pillars
+
+* combat
+* exploration
+* roleplay
+
+== 5 Ws
+
+* WHO -- quest-giver
+** Elf archaeologist, Theren
+** (Elf necromancer, Theren)
+* WHAT -- objective
+** clear out skeletons
+** (escape with your lives)
+* WHEN -- time-pressure
+** spending too long in the tomb will turn you into a skeleton
+* WHERE -- treacherous location
+** tomb full of skeletons and death-mist
+* WHY -- motivation
+** lots of gold
+** (not dying)
+
+== Notes
+
+* jumping
+** running start
+*** 10ft running start = full distance
+*** from standing = 1/2 distance
+** distance
+*** horizontally up to your STR score in ft
+*** vertically up to your STR modifier in ft
+**** can grab ledge up to 1.5x your height above
+* falling (floors are 10ft apart unless otherwise stated)
+** 1d6 bludgeoning per 10ft
+
+== Map
+
+```
+__A__________
+  |
+  B ----- F
+  ?       |
+  C ? D ? E
+  |   ?   |
+  G - H - I
+      ?
+      J
+```
+
+== Rooms
+
+---
+
+=== `A` -- Surface
+
+[cols=">1,100"]
+|===
+
+| pillar
+| roleplay
+
+| wherein
+| Theren presents the party with a quest
+
+| connections
+| stairs down (`B`)
+
+| secrets
+| -
+
+|===
+
+.Description
+* forest clearing
+* round hole with spiral staircase descending into ancient tomb
+
+> Hail, adventurers! Legend tells of an immense treasure buried alongside the evil king whose remains lie at the very bottom of this tomb. Unfortunately, the tomb is guarded by the king's now-undead guard. Clear the tomb of these vile skeletons, and the royal gold is yours--as a humble archaeologist, the only treasure that interests me is the opportunity to study this site in peace.
+
+---
+
+=== `B` -- Antechamber
+
+[cols=">1,100"]
+|===
+
+| pillar
+| combat
+
+| wherein
+| Theren tricks the party into falling deep into the tomb
+
+| connections
+| stairs up (`A`), long hallway east (`F`)
+
+| secrets
+| trapdoor down (`C`)
+
+|===
+
+.Description
+* 50x50ft square room
+* tall room
+* stairs to north
+* alcove in east wall, 30ft up
+* intricate device on west wall
+* intricate pattern covering entire floor
+
+.Combat Rounds
+. 4 skeletons drop down from east alcove; Theren begins to work on device
+. 2 skeleton archers appear in east alcove; Theren continues to work on device; floor lights up
+. floor opens up, and party falls
+
+---
+
+=== `C` -- Pit
+
+[cols=">1,100"]
+|===
+
+| pillar
+| roleplay
+
+| wherein
+| the party lands in the pit and meets a nice skeleton
+
+| connections
+| stairs down (`G`)
+
+| secrets
+| opening buried in bones (`D`) 
+
+|===
+
+.Description
+* 50x50ft square room
+* several stories tall
+* floor covered in thick layer of bones
+** digging through bones in the west reveals an opening
+* stairs down in north wall
+
+.Garet
+* friendly skeleton wizard
+* saves party by casting Feather Fall
+* dialogue
+** Theren's plot is to convert able adventurers into skeletal servants
+*** he tricks people into falling down here
+*** spending too long in the tomb will turn you into an undead servant
+**** lower is worse -- you can tell by the thick fog
+** not all skeletons are bad
+*** unfortunately, some are too far gone
+**** identifiable by glowing eyes
+
+---
+
+=== `D` -- Upper Collapsing Room
+
+[cols=">1,100"]
+|===
+
+| pillar
+| combat / exploration
+
+| wherein
+| there is treasure to get, but a stupid hole in the way
+
+| connections
+| -
+
+| secrets
+| opening buried in bones (`C`), opening in floor (`H`), magically locked door (`E`) 
+
+|===
+
+.Description
+* 30x50ft long room
+* 20ft wide gap in the middle where the floor has collapsed
+** sleeping skeltal minotaur can be seen in room below
+* bones coming in from hole in west wall
+* locked door in east wall
+** unlockable with key from shop
+* locked treasure chest on west side
+** 500 gp (10lbs)
+* locked treasure chest on east side
+** 500 gp (10lbs)
+
+---
+
+=== `E` -- Shop
+
+[cols=">1,100"]
+|===
+
+| pillar
+| roleplay / exploration
+
+| wherein
+| the party goes shopping
+
+| connections
+| stairs down (`I`), stairs up (`F`)
+
+| secrets
+| magically locked door (`D`) 
+
+|===
+
+.Description
+* 20x20 square room
+* locked door to east
+* stairs down to south
+* stairs up to north
+* set up like a little shop, but the shelves and tables are barren
+* mysterious shopkeeper appears through portal
+** offers any of the items on the below (or other stuff if reasonable)
+** takes money, goes through portal, returns with item
+
+.Mysterious Shopkeeper
+* gnome wizard
+* doesn't care about anything except making money
+** this dungeon turns out to be a good place to skim money off of adventurers
+* can easily be killed, but doesn't drop any loot
+
+.Magic Shop
+[cols=">1,100"]
+|===
+| gp | item
+
+| 100 | key to the room to the west
+
+| 25 | any tool set (thieves, etc)
+
+| 2000 | rope of climbing (60ft, moves 10ft/round)
+| 4000 | slippers of spider climbing (move on walls/ceiling)
+| 5000 | immovable rod (no force can move it once you press the button)
+
+| 50 | potion of healing (2d4+2)
+| 150 | potion of greater healing (4d4+4)
+| 200 | potion of invisibility (1hr, ends on attack or spell)
+| 500 | potion of flying (1hr)
+
+| 2500 | scroll of elemental enchantment (+1d4 any type to any weapon)
+
+| 1000 | any +1 weapon or armor
+| 4000 | any +2 weapon or armor
+| 2000 | ring of protection (+1 AC)
+|===
+
+---
+
+=== `F` -- Combat 3 (Boss)
+
+[cols=">1,100"]
+|===
+
+| pillar
+| combat
+
+| wherein
+| Theren gets what's coming to him
+
+| connections
+| long hallway west (`B`), stairs down (`E`)
+
+| secrets
+| - 
+
+|===
+
+.Description
+* 50x50ft square room
+* stairs down on north side
+* door on east side
+* 10x10ft workshop equipment in center offers cover
+
+.Combat Rounds
+. summon 2 skeletons; cast spiritual weapon (1d8+1 necrotic) in shape of bone
+. hold person (DC 11 WIS); use spiritual weapon
+. inflict wounds (+3 to hit, 3d10 necrotic); use spiritual weapon
+** after this, OR IF HE IS DEFEATED, Theren will beg for his life
+*** all he wanted was to preserve his culture (which, admittedly, includes enslaving mortals for the sake of having servants)
+*** he can offer you all great power and immortality, command of an undead army, bring back any dead loved ones, etc
+
+---
+
+=== `G` -- Empty Room
+
+[cols=">1,100"]
+|===
+
+| pillar
+| exploration
+
+| wherein
+| nothing happens, really
+
+| connections
+| stairs up (`C`), hallway east (`H`)
+
+| secrets
+| - 
+
+|===
+
+.Description
+* 30x30ft room with dusty crates
+* stairs up to south
+* door to east
+* investigation will reveal up to 500 gp
+
+---
+
+=== `H` -- Lower Collapsing Room
+
+[cols=">1,100"]
+|===
+
+| pillar
+| exploration
+
+| wherein
+| the party might fall in a hole and/or find great treasure
+
+| connections
+| hallway west (`G`), hallway east (`I`)
+
+| secrets
+| opening in ceiling (`D`), collapsible floor (`J`) 
+
+|===
+
+.Description
+* 30x50ft long room
+* ceiling in center collapsed (difficult terrain 20ft across)
+** any damage will make this part of the floor collapse
+*** falling from above, deliberately breaking it, etc
+* sleeping minotaur in SW corner
+** next to him is a row of chained up skeletons, looking lifeless
+*** there are some free shackles, which could be used torestrain the minotaur
+** CAN BE REASONED WITH OR RESTRAINED
+*** 2000 gp on his person can be gained by
+**** persuasion
+**** defeating him
+**** pickpocketing
+
+.Wounded Sleeping Skeletal Minotaur (only 30 hp)
+. dazed for a round while waking up
+** will try to talk out of the encounter
+*** "I have 2000 gp"
+. charges across room (+6 to hit, 2d8+4 piercing)
+** causes floor to collapse if not already (or just falls in)
+*** takes 1d6 damage, but is stuck down there
+
+---
+
+=== `I` -- Ooze Room
+
+[cols=">1,100"]
+|===
+
+| pillar
+| combat
+
+| wherein
+| the party might end up in a sticky situation
+
+| connections
+| hallway west (`H`), stairs up (`E`)
+
+| secrets
+| - 
+
+|===
+
+.Description
+* 30x30ft square room
+** lots of fallen rubble makes it more like a 5ft wide L-shape
+* locked door to stairs up to the north
+* door to hallway to the west
+* gray slime sits in 2 5x5ft puddles near either entrance
+** if touched at all, roll initiative vs 2 gray ooze
+
+---
+
+=== `J` -- Vault
+
+[cols=">1,100"]
+|===
+
+| pillar
+| exploration
+
+| wherein
+| the party gets mad rich yo
+
+| connections
+| -
+
+| secrets
+| collapsible ceiling (`H`) 
+
+|===
+
+.Description
+* 30x30ft square room
+* pretty well looted, but still relatively full of gold
+** 10k gp (200lbs)

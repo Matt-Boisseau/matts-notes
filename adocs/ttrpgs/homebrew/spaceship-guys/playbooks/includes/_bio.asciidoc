@@ -1,0 +1,58 @@
+= Bio
+
+[cols="1,100", frame="none", grid="none"]
+|===
+
+| Hired&nbsp;to
+// tag::test[]
+| TEST
+// end::test[]
+// tag::ace[]
+| fly the ship
+// end::ace[]
+
+|===
+
+
+When you make your character, mark 2 points in any stat and 1 point in any other stat.
+
+[cols="1,1,100", frame="none", grid="none"]
+|===
+
+| ☐☐☐
+| Deft
+| // TODO: attribute description
+
+| ☐☐☐
+| Smooth
+| // TODO: attribute description
+
+| ☐☐☐
+| Intrepid
+| // TODO: attribute description
+
+| ☐☐☐
+| Cunning
+| // TODO: attribute description
+
+| ☐☐☐
+| Greasy
+| // TODO: attribute description
+
+|===
+
+When you get hurt, mark harm. When you get healed, erase harm. Do not mark harm for hull damage.
+
+[cols="1,100", frame="none", grid="none"]
+|===
+| ☐☐☐
+| Harm
+|===
+
+When you roll ≤6 (after applying Stat modifiers), mark 1 point in experience. When you reach 3 experience, choose an advancement, then erase 3 experience.
+
+[cols="1,100", frame="none", grid="none"]
+|===
+| ☐☐☐
+| Experience
+|===

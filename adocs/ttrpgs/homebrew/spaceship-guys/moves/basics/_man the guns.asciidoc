@@ -1,0 +1,13 @@
+☑ Man the Guns::
+
+// TODO: description
+
++
+
+.Edges
+* // TODO: effects
+
++
+
+.Hitches
+* // TODO: side-effects

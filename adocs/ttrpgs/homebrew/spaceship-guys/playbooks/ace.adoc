@@ -1,0 +1,9 @@
+= Ace
+:sectnums:
+:icons: font
+
+include::includes/_bio.asciidoc[leveloffset=+1,tags="**,!*,ace"]
+
+== Moves
+
+include::includes/_moves.asciidoc[leveloffset=+2]

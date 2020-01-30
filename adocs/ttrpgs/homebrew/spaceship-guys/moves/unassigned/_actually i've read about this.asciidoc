@@ -1,0 +1,14 @@
+☐ Actually, I've Read About This::
+
+When you hear about or see something for the first time, roll +Cunning.
+
++
+
+.Edges
+* Pick any 1 tag; you remember reading that the thing is like that, and it is from now on.
+* All crew members take +1 ongoing when harming, disabling, or using the thing, as well as when speaking to experts about the thing.
+
++
+
+.Hitches
+* All crew members take -1 ongoing when harming, disabling, or using the thing, as well as when speaking to experts about the thing.

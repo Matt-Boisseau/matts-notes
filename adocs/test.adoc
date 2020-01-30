@@ -1,0 +1,42 @@
+= Test
+
+include::_include-test.adoc[]
+
+[cols=">1,5",options="header"]
+|===
+| 1d6
+| result
+
+| 1
+| test
+
+| 2
+| test
+
+| 3
+| test
+
+| 4
+| test
+
+| 5
+| test
+
+| 6
+| test
+|===
+
+Lorem ipsum dolor sit amet. [.icon]#casino#
+
+* item
+* item
+** sub-item
+* item
+
+//
+
+. and
+. now
+. an
+. ordered
+. list
