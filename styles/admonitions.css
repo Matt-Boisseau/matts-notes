@@ -19,6 +19,7 @@
 }
 
 .admonitionblock td.icon {
+	font-size: 24px;
 	display: flex;
 }
 

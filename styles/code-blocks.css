@@ -9,4 +9,5 @@ code {
 
 pre code {
 	padding: var(--u-table-padding);
+	tab-size: 4;
 }

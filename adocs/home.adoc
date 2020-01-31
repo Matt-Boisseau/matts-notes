@@ -11,3 +11,67 @@ Here's how it works, if you're curious or wanting to set up something similar:
 * GitHub Pages publishes the site every time I `git push`.
 * `Window.history` looks for `.adoc` files based on the URL.
 * AsciiDoctorJS converts `.adoc` content to HTML on the fly.
+
+== CSS Test
+
+Below is just a bunch of garbage to test styles.
+
+WARNING: admonition test
+
+[NOTE]
+multi-line +
+admonition +
+test
+
+```
+<!-- code ligatures are cool -->
+function codeBlock() {
+	console.log('Hello, world!');
+}
+```
+
+[cols="1,10", options="header"]
+|===
+
+| 1d6
+| treasure
+
+| 1
+| nothing--it's a mimic!
+
+| 2
+| immovable rod
+
+| 3
+| cursed boots of spider climbing
+
+| 4
+| 1d6x100 gp
+
+| 5
+| 1d4 healing potions
+
+| 6
+| +1 longsword
+
+|===
+
+* unordered
+** a
+*** b
+**** c
+* list
+** a
+*** b
+**** c
+
+// break lists
+
+. ordered
+.. a
+... b
+.... c
+. list
+.. a
+... b
+.... c
