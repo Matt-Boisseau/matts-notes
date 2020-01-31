@@ -36,6 +36,19 @@ main {
 	padding-bottom: 50vh;
 }
 
+/* code */
+code {
+	font-family: 'Fira Code Light', monospace;
+	background-color: #aaa;
+	color: white;
+	display: inline-block;
+	padding: 0 5px;
+	border-radius: 5px;
+}
+pre code {
+	padding: 10px;
+}
+
 /* lists */
 /* TODO: fix for sections without sectionbody */
 nav>.ulist>ul,
