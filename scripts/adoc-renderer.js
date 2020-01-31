@@ -59,15 +59,15 @@ function loadAdocToElement(tagName, adocPath, setState = false) {
 	window.history.pushState(url, url, url);
 }
 
-// wait for onload before doing anything related to the body
-window.onload = function() {
-
-	// load all sections
+// load all sections
+function loadPageSections() {
 	sections.forEach(o => {
 		loadAdocToElement(o.tagName, o.adocPath);
 	});
-	
-	// optimize internal links by loading just the main section (instead of the whole page)
+}
+
+// optimize internal links by loading just the main section (instead of the whole page)
+function optimizeInternalLinks() {
 	document.querySelectorAll('a').forEach(o => {
 
 		// check if it's an internal link (it will begin with '/')
@@ -78,36 +78,4 @@ window.onload = function() {
 			o.setAttribute('href', 'javascript:loadAdocToElement("main", "' + linkPath + '", true);');
 		}
 	});
-
-	//TODO: move this out of adoc-renderer.js
-	var folders = document.querySelectorAll('nav li');
-	for (var i = 0; i < folders.length; i++) {
-
-		// check if this 'nav li' is actually a folder
-		folder = folders[i];
-		if (folder.lastElementChild.className == 'ulist') {
-
-			// add click event to expand/collapse this folder
-			folder.firstElementChild.addEventListener('click', function() {
-				this.parentElement.classList.toggle('collapsed');
-				this.parentElement.classList.toggle('expanded');
-			});
-
-			// check if the current doc is in this folder
-			var containsOpenDoc = false;
-			folder.querySelectorAll('a').forEach(o => {
-				if (o.getAttribute('href').includes(window.location.pathname)) {
-					containsOpenDoc = true;
-				}
-			});
-
-			// if the current doc is in this folder, it should start expanded, instead of collapsed
-			if (containsOpenDoc) {
-				folder.classList.toggle('expanded');
-			}
-			else {
-				folder.classList.toggle('collapsed');
-			}
-		}
-	};
 }
