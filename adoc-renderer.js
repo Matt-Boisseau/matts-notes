@@ -36,6 +36,13 @@ const sections = [
 // look for an adoc at adocPath, convert it to HTML, and insert it into tagName
 function loadAdocToElement(tagName, adocPath, setState = false) {
 
+	// catch "404s" and redirect to home
+	//TODO: catch all URLs with no adoc content
+	if (adocPath == '/404.html') {
+		adocPath = '/home';
+		setState = true;
+	}
+
 	// set context to root, so file paths will be correct
 	var url = window.location.pathname;
 	if (setState) {
@@ -47,8 +54,6 @@ function loadAdocToElement(tagName, adocPath, setState = false) {
 	var element = document.querySelector(tagName);
 	var html = asciidoctor.convert('include::adocs/' + adocPath + '.adoc[]', convertOptions);
 	element.innerHTML = html;
-
-	//TODO: catch "404s" and redirect to home (or a 404 adoc)
 
 	// update the state to match window.location, so reloading and bookmarking work
 	window.history.pushState(url, url, url);
