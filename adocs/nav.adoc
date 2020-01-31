@@ -1,13 +1,12 @@
 * link:/home[Home]
-* blog
-** TODO
+* Blog
+** `//TODO`
 * TTRPGs
 ** D&D
 *** One-Shots
-**** link:/ttrpgs/d&d/one-shots/tomb-of-treasure/overview[Tomb of Treasure]
+**** `//TODO`
 ** Homebrew Systems
 *** Courier
-**** TODO
+**** `//TODO`
 *** Spaceship Guys
-**** Playbooks
-***** link:/ttrpgs/homebrew/spaceship-guys/playbooks/ace[Ace]
+**** `//TODO`

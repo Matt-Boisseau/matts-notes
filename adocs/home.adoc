@@ -1,7 +1,13 @@
 = Home
 
-Hey! These are my notes. Browse them on the left.
+Hey! These are my notes. Unless you're me, there probably isn't too much to find here.
 
-My goal with this site was to streamline the process of note-taking and publishing. The only step is to commit and push new `.adoc` files to this site's GitHub repository -- by the magic of GitHub Pages, it appears before you. There's no building or command-line or FTP or anything else that might take 30 seconds out of my day.
+My goal in creating this site was to streamline the process of note-taking and publishing. To that end, there's no building or deploying necessary; just writing and pushing to master. That's as lightweight as it gets, at least from a workflow perspective--I'm not too fussed about performance in this context.
 
-This is accomplished by way of AsciiDoctorJS, a library that allows me to convert `.adoc` files to HTML code on the fly. As you navigate around this site, a simple script reads the URL, finds the corresponding `.adoc` file, converts it to HTML, and slaps it in this section here.
+Because I don't need to differentiate between updating the repo and updating this site, I know that my notes will always be easy to pull up. And it's certainly preferable to share a link to my personal site than to a GitHub repository (not even getting into the way `.adoc` includes don't even work in the GitHub previewer).
+
+Here's how it works, if you're curious or wanting to set up something similar:
+
+* GitHub Pages publishes the site every time I `git push`.
+* `Window.history` looks for `.adoc` files based on the URL.
+* AsciiDoctorJS converts `.adoc` content to HTML on the fly.
