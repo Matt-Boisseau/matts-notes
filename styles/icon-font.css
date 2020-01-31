@@ -1,0 +1,57 @@
+@font-face {
+	font-family: 'Material Icons';
+	font-style: normal;
+	font-weight: 400;
+	src: url(https://fonts.gstatic.com/s/materialicons/v48/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2) format('woff2');
+}
+
+.icon {
+	font-family: 'Material Icons';
+	font-weight: normal;
+	font-style: normal;
+	/*font-size: 24px;*/
+	line-height: 1;
+	letter-spacing: normal;
+	text-transform: none;
+	display: inline-block;
+	white-space: nowrap;
+	word-wrap: normal;
+	direction: ltr;
+	-webkit-font-feature-settings: 'liga';
+	-webkit-font-smoothing: antialiased;
+}
+
+.icon i {
+	font-style: normal;
+}
+
+.icon-note,
+.icon-tip,
+.icon-important {
+	background-color: var(--c-seconday);
+}
+
+.icon-note::after {
+	content: 'info';
+}
+
+.icon-tip::after {
+	content: 'emoji_objects';
+}
+
+.icon-important::after {
+	content: 'priority_high';
+}
+
+.icon-caution,
+.icon-warning {
+	background-color: var(--c-primary);
+}
+
+.icon-caution::after {
+	content: 'pan_tool';
+}
+
+.icon-warning::after {
+	content: 'warning';
+}

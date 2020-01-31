@@ -1,0 +1,39 @@
+table.tableblock {
+	width: 100%;
+	border-spacing: 0;
+	border-radius: var(--u-roundness);
+	overflow: hidden;
+}
+
+.tableblock td {
+	padding: 0 var(--u-table-padding);
+}
+
+.tableblock th {
+	padding: var(--u-table-padding);
+}
+
+.tableblock thead {
+	background-color: var(--c-seconday);
+	color: var(--c-text-dark);
+}
+
+.tableblock tbody tr:nth-child(odd) {
+	background-color: var(--c-bg1);
+}
+
+.tableblock tbody tr:nth-child(even) {
+	background-color: var(--c-bg2);
+}
+
+.tableblock .halign-right {
+	text-align: right;
+}
+
+.tableblock .halign-left {
+	text-align: left;
+}
+
+.tableblock .halign-center {
+	text-align: center;
+}

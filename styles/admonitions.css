@@ -1,0 +1,30 @@
+.admonitionblock {
+	background-color: var(--c-bg2);
+	margin: 10px 0;
+	border-radius: var(--u-roundness);
+	overflow: hidden;
+}
+
+.admonitionblock table {
+	border-spacing: 0;
+}
+
+.admonitionblock .content {
+	padding: var(--u-table-padding);
+}
+
+.admonitionblock tr {
+	display: flex;
+	flex-direction: row;
+}
+
+.admonitionblock td.icon {
+	display: flex;
+}
+
+.admonitionblock td.icon i {
+	flex-grow: 1;
+	color: var(--c-text-dark);
+	display: block;
+	padding: var(--u-table-padding);
+}

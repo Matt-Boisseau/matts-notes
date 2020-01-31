@@ -1,0 +1,20 @@
+/*? is there a performance impact for using * selector? */
+
+*::-webkit-scrollbar {
+	width: 11px;
+}
+
+* {
+	scrollbar-width: thin;
+	scrollbar-color: var(--c-bg2) var(--c-no);
+}
+
+*::-webkit-scrollbar-track {
+	background: var(--c-bg1);
+}
+
+*::-webkit-scrollbar-thumb {
+	background-color: var(--c-bg2) ;
+	border-radius: var(--u-roundness);
+	border: 3px solid var(--c-bg1);
+}

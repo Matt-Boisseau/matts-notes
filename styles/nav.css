@@ -1,0 +1,56 @@
+nav li {
+	display: block;
+	user-select: none;
+}
+
+nav li li {
+	padding-left: 10px;
+	margin-left: -10px;
+	border-left: 1px solid var(--c-text-light);
+}
+
+nav li p:hover {
+	color: var(--c-seconday);
+}
+
+nav li p:hover~.ulist>ul>li {
+	border-color: var(--c-seconday);
+}
+
+nav li p {
+	display: block;
+}
+
+nav li a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.collapsed>.ulist>ul {
+	display: none;
+}
+
+.collapsed p,
+.expanded p {
+	cursor: pointer;
+}
+
+.collapsed>p::before,
+.expanded>p::before,
+nav li a::before {
+	font-family: 'Material Icons';
+	display: inline-block;
+	width: 20px;
+}
+
+nav li a::before {
+	content: 'library_books'; /* consider: notes, note, library_books, attachment, drafts */
+}
+
+.collapsed>p::before {
+	content: 'folder';
+}
+
+.expanded>p::before {
+	content: 'folder_open';
+}

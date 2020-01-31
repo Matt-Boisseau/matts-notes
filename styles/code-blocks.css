@@ -1,0 +1,12 @@
+code {
+	font-family: 'Fira Code Light', monospace;
+	background-color: var(--c-bg2);
+	color: var(--c-text-light);
+	display: inline-block;
+	padding: 0 5px;
+	border-radius: var(--u-roundness);
+}
+
+pre code {
+	padding: var(--u-table-padding);
+}
