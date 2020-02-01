@@ -1,9 +1,0 @@
-NOTE: note
-
-TIP: tip
-
-IMPORTANT: important - this one is really long so we can see what it looks like when an admonition gets longer than one line - this one is really long so we can see what it looks like when an admonition gets longer than one line - this one is really long so we can see what it looks like when an admonition gets longer than one line - this one is really long so we can see what it looks like when an admonition gets longer than one line - this one is really long so we can see what it looks like when an admonition gets longer than one line
-
-CAUTION: caution
-
-WARNING: warning

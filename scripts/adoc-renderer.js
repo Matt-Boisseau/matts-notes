@@ -31,7 +31,7 @@ const sections = [
 		tagName: 'footer',
 		adocPath: 'footer'
 	}
-]
+];
 
 // look for an adoc at adocPath, convert it to HTML, and insert it into tagName
 function loadAdocToElement(tagName, adocPath, setState = false) {
