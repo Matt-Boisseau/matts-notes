@@ -1,0 +1,50 @@
+[cols="1,10",options="header"]
+|===
+| Mya | organism
+| 3500 | LUCA
+| 3000 | cyanobacteria
+| 1800 | eukaryotes
+| 1300 | fungi
+| 1000 | non-marine eukaryotes (plants?)
+| 750 | protozoa
+| 550 | comb jellies, sponges, corals, sea anemones
+| 535 | chordates, anthropods, echinoderms, molluscs, brachiopods, foraminifers, radiolarians
+| 525 | graptolites
+| 511 | crustaceans
+| 510 | cephalapods, chitons
+| 500 | jellyfish
+| 485 | VERTEBRATES
+| 450 | conodonts, echinoids
+| 440 | agnathan fishes
+| 420 | ray-finned fishes, trigonotarbid arachnids, land scorpions
+| 395 | lichens, stoneworts, harvestmen, mites, hexapods, ammonoids
+| 365 | acanthostega
+| 360 | crabs, ferns
+| 350 | sharks, ratfishes, hagfish
+| 330 | AMNIOTE VERTEBRATES
+| 320 | SYNAPSIDS
+| 305 | diapsid reptiles
+| 280 | beetles
+| 275 | THERAPSID SYNAPSIDS
+| 270 | gorgonopsians
+| 250 | MAJOR EXTINCTION OF 90+% ANIMALS
+| 250 | frogs
+| 248 | sturgeon, paddlefish
+| 245 | ichthyosaurs
+| 225 | dinosaurs, cockles, teleost, mammals
+| 220 | flies, turtles
+| 205 | MAJOR EXTINCTION OF TERRESTRIAL VERTEBRATES AND AMPHIBIANS
+| 190 | lepidopteran insects, hermit crabs, starfish, clams, bryozoa
+| 175 | stegosaurs
+| 170 | salamanders, newts, cryptoclidids, plesiosaurs, cladotherian mammals
+| 165 | rays, vampire squids
+| 160 | multituberculate mammals
+| 155 | blood-sucking insects
+| 153 | pine trees
+| 140 | orb-weaver spiders
+| 130 | angiosperms (flowering plants), krill
+| 120 | heterokonts
+| 115 | monotremes
+|===
+
+//TODO: fill in more from https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life

@@ -1,0 +1,19 @@
+= Spaceship Guys (Working Title)
+
+Adversarial GM-vs-players TTRPG.
+
+GM takes the role of a rogue agent posing as HQ:
+
+* keep up your VERISIMILITUDE by helping the crew
+* further your EVIL PLOT by delaying the crew's mission as long as possible
+* try not to accidentally kill the whole crew
+
+Players take the roles of crew members:
+
+* keep the ship in one piece
+* keep yourself in one piece
+* complete the mission as quickly as possible
+
+Play alternates between HQ actions (either helping or hindering the crew) and crew actions (keeping things together or furthering the mission).
+
+

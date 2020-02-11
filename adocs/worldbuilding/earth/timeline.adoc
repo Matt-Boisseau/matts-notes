@@ -1,0 +1,194 @@
+# Earth Timeline
+
+## Hadean
+
+Earth formed from protoplanetary disk. No life. Extremely hot. Frequent volcanic activity.
+
+[cols="1,10", options="header"]
+|===
+
+| Mya
+| event
+
+| 4600
+| Earth forms from accretion disc (organic compounds already there)
+
+| 4500
+| Theia impact sends moonlets into orbit (these eventually form Luna)
+
+| 4400
+| liquid water forms
+
+|===
+
+## Archaean
+
+Abiogenesis (origin of life from non-living matter). Early supercontinents.
+
+[cols="1,10"]
+|===
+
+| 4000
+| first greenstone belt forms (oldest rock, ore deposits)
+
+| 4000
+| late heavy bombardment (meteoroid impacts -> thermal activity -> abiogenesis == life)
+
+| 3800
+| bacteria evolve
+
+| 3500
+| LUCA (split between bacteria and archaea)
+
+| 3500
+| bacteria develop primitive photosynthesis
+
+| 3000
+| cyanobacteria evolve (photosynthesizing bacteria that use water and output O2) -> Great Oxidation Event -> iron ore formation (oceans rust), extinction of non-cyanobacteria (O2 == poision), global cooling (greenhouse gas)
+
+|===
+
+## Proterozoic
+
+Eukaryotes (more complex life). Oxygen from photosynthetic Cyanobacteria. Early fungi, plants, and animal. More early supercontinents.
+
+[cols="1,10"]
+|===
+
+| 2500
+| plate tectonics begin (marine crust is dense enough to subduct)
+
+| 1800
+| eukaryotes evolve
+
+| 1300
+| fungi evolve
+
+| 1200
+| meiosis (sexual reproduction) evolves (and probably increases the rate of evolution)
+
+| 1000
+| non-marine eukaryotes (plants?) evolve
+
+| 750
+| animals evolve (first protozoa)
+
+| 650
+| Snowball Earth (maybe)
+
+| 600
+| ozone layer forms (due to atmospheric oxygen created by photosynthesizers)
+
+|===
+
+## Phanerozoic
+
+Complex life, including vertebrates. Cambrian Explosion. Pangea and modern continents. Lots of evolution. Humans.
+
+### Paleozoic
+
+Dramatic geological, climactic, evolution change. Appearance of most modern phyla. Transition to life on land. Forests of primitive plants.
+
+[cols="1,10"]
+|===
+
+| 550
+| Cambrian Explosion (most major animal phyla appear, all organisms diversify -- before this, most organisms were colonies of single-celled organisms)
+
+| 485
+| first vertebrates with bones (jawless fish)
+
+| 410
+| first teeth (in fish)
+
+| 395
+| first tetrapods (4-legged, spined animals)
+
+| 365
+| acanthostega (one of the first vertebrates capable of walking)
+
+| 363
+| Carboniferous Period begins (Earth begins to resemble modern Earth -- insects and vegetation covering land, sharks as top predators in oceans, tetrapods adapt to terrestrial life)
+
+| 360
+| land dominated by seed ferns
+
+| 330
+| first amniote vertebrates (lay eggs on land or retain eggs within mother -- reptiles, birds, mammals) aka "higher vertebrates"
+
+| 320
+| synapsids (precursors to mammals) separate from sauropsids (reptiles)
+
+| 250
+| Permian-Triassic extinction (eliminates 90+% of marine species -- "clean slate")
+
+|===
+
+### Mesozoic
+
+Age of Reptiles / Age of Conifers. Dinosaurs. Mammals. Pangaea.
+
+[cols="1,10"]
+|===
+
+| 250
+| Mesozoic Marine Revolution (increasingly diverse predators pressure sessile marine groups)
+
+| 225
+| first dinosaurs and first mammals
+
+| 220
+| gymnosperm forests dominate land -> herbivores grow to huge sizes to accommodate the large guts necessary to digest nutrient-poor plants
+
+| 205
+| Triassic/Jurassic extinction
+
+| 190
+| extensive development of sponge reefs
+
+| 130
+| rise of angiosperms that either attract animals to spread pollen -> evolutionary burst due to coevolution
+
+| 90
+| large diversification in angiosperms
+
+|===
+
+### Cenozoic
+
+Begins with asteroid impact (dinosaur extinction). Age of Mammals. Modern times.
+
+[cols="1,10"]
+|===
+
+| 66
+| Cretaceous-Paleogene extinction (eliminates about half of all animal species, including all dinosaurs -- this allows mammals to dominate)
+
+| 66
+| rapid dominance of conifers and ginkgoes, mammals becoming dominant species
+
+| 60
+| first primates
+
+| 55
+| modern bird groups diversify
+
+| 35
+| grasses diversify from angiosperms, many modern mammal groups appear
+
+| 10
+| grasslands and savannahs are established, diversity in insects, diversity in grassland mammals
+
+| 2
+| first members of Homo (Homo Habilis), and ancestor of cattle
+
+| 0.35
+| neanderthals
+
+| 0.25
+| anatomically modern humans
+
+| 0.03
+| extinction of neanderthals, first domestic dogs
+
+|===

@@ -1,0 +1,262 @@
+= Courier Scratch
+
+* 78 cards
+** 22 major arcana
+*** 13 NPC lords
+**** 1 duke & duchy
+***** card abilities 1, 2, & 3
+**** 4 counts & counties
+***** card abilities 1 & 2
+**** 8 barons & baronies/provinces (each with malleable allegiance)
+***** card ability 1
+*** 9 free for players
+** 56(14x4) minor arcana
+*** 16(4*4) face cards (PNQK)
+*** 40(10*4) number cards (1-10)
+
+.Rider divinatory meanings
+[cols="1h,5,5,5,5",options="header"]
+|===
+| | wands | cups | swords | pentacles
+
+// 1 ----------
+
+| 1
+| Creation, invention, enterprise, the powers which result in these, principle, beginning, source, birth, family, origin, the beginning of enterprises, according to another account—money, fortune, inheritance.
+
+Reversed: Fall, decadence, ruin, perdition, to perish, also—clouded joy.
+| 
+| 
+| 
+
+// 2 ----------
+
+| 2
+| Between the alternative readings there is no marriage possible, on the one hand, riches, fortune, magnificence. And on the other, physical suffering, disease, chagrin, sadness, mortification. The design gives one suggestion— here is a lord overlooking his dominion and alternately contemplating a globe. It looks like the malady, the mortification, the sadness of Alexander amidst the grandeur of this world’s wealth.
+
+Reversed: Surprise, wonder, enchantment, emotion, trouble, fear.
+| 
+| 
+| 
+
+// 3 ----------
+
+| 3
+| He symbolizes established strength, enterprise, effort, trade, discovery, commerce; those are his ships, bearing his merchandise, which are sailing over the sea.
+
+Reversed: The end of troubles, suspension or end of adversity, disappointment, and toil.
+| 
+| 
+| 
+
+// 4 ----------
+
+| 4
+| They are for once almost on the surface—country life, repose, concord, harmony, prosperity, peace, and the perfected work of these.
+
+Reversed: The meaning remains unaltered—increase, felicity, beauty, embellishment.
+| 
+| 
+| 
+
+// 5 ----------
+
+| 5
+| Imitation, for example, sham fight, the strenuous competition and struggle of the search after riches and fortune. Hence some attributions say that it is a card of gold, gain, opulence
+
+Reversed: Trickery, Contradiction, litigation, disputes.
+| 
+| 
+| 
+
+// 6 ----------
+
+| 6
+| The card has been so designed that it can cover several significations. On the surface, it is a victor triumphing, but it is also great news, such as might be carried in state by the King’s courier. It is expectation crowned with its own desire, the crown of hope.
+
+Reversed: Apprehension, fear—as of a victorious enemy at the gate, treachery, disloyalty, as of gates being opened to the enemy.
+| 
+| 
+| 
+
+// 7 ----------
+
+| 7
+| It is a card of valor, for on the surface, six are attacking one, who has, however, the vantage position. On the intellectual plane, it signifies discussion, wordy strife, in business—negotiations, war of trade, barter, competition. It is further a card of success, for the combatant is on the top and his enemies may be unable to reach him.
+
+Reversed: Perplexity, embarrassments, anxiety.
+| 
+| 
+| 
+
+// 8 ----------
+
+| 8
+| Activity in undertakings, the path of such activity, swiftness, as that of an express messenger; great haste, great hope, speed towards an end which promises assured felicity; that which is on the move, also the arrows of love.
+
+Reversed: Arrows of jealousy, internal dispute, stingings of conscience, quarrels.
+| 
+| 
+| 
+
+// 9 ----------
+
+| 9
+| The card signifies strength in opposition. If attacked, he will meet the onslaught boldly. With this main significance there are all its possible adjuncts, including delay, suspension, adjournment.
+
+Reversed: Obstacles, adversity, calamity.
+| 
+| 
+| 
+
+// 10 ----------
+
+| 10
+| A card of many significances, and some of the readings cannot be harmonized. I set aside that which connects it with honor and good faith. It is oppression simply, but it is also fortune, gain, any kind of success of these things. It is also a card of false-seeming, disguise, perfidy. The place which the figure is approaching may suffer from the rods that he carries. Success is stultified if the Nine of Swords follows, and if it is a question of a lawsuit— there will be certain loss.
+
+Reversed: Contrarieties, difficulties, intrigues, and their analogies.
+| 
+| 
+| 
+
+// P ----------
+
+| P
+| Dark young man, faithful, a lover, an envoy, a postman. Beside a man, he will bear favorable testimony concerning him. He is a dangerous rival, if followed by the Page of Cups. Has the chief qualities of his suit.
+
+Reversed: Anecdotes, announcements, evil news. Also indecision and the instability which usually accompanies it.
+| Fair young man, one impelled to render service and with whom the Querent will be connected, a studious youth, news, message, application, reflection, meditation—also these things directed to business
+
+Reversed: Taste, inclination, attachment, seduction, deception, artifice.
+| 
+| 
+
+// N ----------
+
+| N
+
+	| Departure, absence, flight, emigration. A dark young man, friendly. Change of residence.
+
+	Reversed: Rupture, division, interruption, discord.
+
+	| Arrival, approach—sometimes that of a messenger, advances, proposition, demeanor, invitation, incitement.
+
+	Reversed: Trickery, artifice, subtlety, swindling, duplicity, fraud.
+
+	| 
+
+	| 
+
+| Q
+
+	| A dark woman or a countrywoman, friendly, chaste, loving, honorable. If the card beside her signifies a man, she is well disposed towards him; if a woman, she is interested in the Querent. Also, love of money.
+
+	Reversed: Good, economical, obliging, serviceable. Also signifies opposition, jealousy, deceit, and infidelity.
+
+	| Good, fair woman, honest, devoted, who will do service to the Querent. Loving intelligence, and hence the gift of vision, success, happiness, pleasure, also wisdom, virtue.
+
+	Reversed: The accounts vary; good woman, otherwise, distinguished woman but one not to be trusted, perverse woman, vice, dishonor, depravity.
+
+	| Widowhood, female sadness and embarrassment, absence, sterility, mourning, privation, separation.
+
+	Reversed: Malice, bigotry, artifice, prudery, deceit.
+
+	| Opulence, generosity, security, magnificence, liberty.
+
+	Reversed: Evil, fear, suspicion, suspense, mistrust.
+
+| K
+
+	| Dark man, friendly, countryman, generally married, honest and conscientious.
+
+	Reversed: Good, but severe; austere, yet tolerant.
+
+	| Fair man, man of business, law, or divinity, responsible, disposed to oblige the Querent. Also equity, art and science, including those who profess science, law and art, creative intelligence.
+
+	Reversed: Dishonest, double-dealing man, roguery, exaction, injustice, vice, scandal.
+
+	| Whatsoever arises out of the idea of judgment and all its connections—power, command, authority, militant intelligence, law, offices of the crown, and so forth.
+
+	Reversed: Cruelty, evil intentions, perversity, barbarity, breach of faith.
+
+	| Valor, realizing intelligence, business and normal intellectual aptitude, sometimes mathematical gifts and attainments of this kind—success in these paths.
+
+	Reversed:Vice,weakness, ugliness, perversity, corruption, peril.
+
+|===
+
+* 13 provinces
+** 1 capital (overseen by duke)
+** 4 cities (overseen by counts & their duke)
+** 8 parcels (overseen by barons & their counts)
+
+```
+    C
+  B B B
+C B D B C
+  B B B
+    C
+```
+
+a lord is removed if their territory is unstable
+
+stability is marked with tracking dice (1 per lord level)
+
+jobs attribution:
+
+???
+
+* COUNT takes face card (5/14 ~= 36% ~= 2/5)
+** which count = suit (equate to cardinal direction)
+* BARON takes number cards (9/14 ~= 64% ~= 3/5)
+** which baron? shouldn't be dependent on card number, or should it?
+
+.jobs
+[cols="1,1,10",options="header"]
+|===
+| card
+| tier
+| job
+| 2
+| baron
+| 
+| 3
+| baron
+| 
+| 4
+| baron
+| 
+| 5
+| baron
+| 
+| 6
+| baron
+| 
+| 7
+| baron
+| 
+| 8
+| baron
+| 
+| 9
+| baron
+| 
+| 10
+| baron
+| 
+| P
+| count
+| 
+| N
+| count
+| 
+| Q
+| count
+| 
+| K
+| count
+| 
+| A
+| count
+| 
+|===
