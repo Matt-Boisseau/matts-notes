@@ -1,0 +1,185 @@
+= Untitled Werewolf One-Shot
+
+== Prompt
+
+The duke has sent a total of three tax collectors to the remote village of Bithell. None have come back. Get down there, collect the amount they owe, and apprehend whoever is killing tax collectors.
+
+== Idea
+
+. full moon
+. see and half-fight wolf outside of town
+. talk to village druid, who is healing those injured by werewolf attacks
+** "as you can see, this village is in no state to pay... but, if you solve our werewolf problem, everything can go back to normal"
+. adventure through forest->cave->werewolf-den
+. werewolf is hiding... he is hurt from the previous fight
+** "please leave before I hurt you... I used to be able to control it, but, apparently, I've been killing people... the druid gave me potions to try to help, but I guess they didn't work"
+** investigation of potions reveals that they are sleeping potions... what's going on here?
+** party can choose whether or not to slay the werewolf
+. if party wants pay or tries to ask about the werewolf, the druid reveals that he is behind the killings
+** he uses shape-change to transform into a wolf, puts the real werewolf to sleep, and blames the killings on him
+** he does this to steal outsiders' gold while pretending to be a poor, downtrodden village that can't pay taxes
+** after revealing his evil plan, he shape-changes and attacks
+*** "and now, I'll do the same to you!"
+
+== Map
+
+```
+B ? D ? F
+|   |   |
+A - C - E
+```
+
+== Rooms
+
+[cols="1, 5, 10, 5", options="header"]
+|===
+
+| 
+| name
+| brief
+| pillar
+
+| `A`
+| road to Bithell
+| wolf half-fight
+| combat (1 werewolf, flees at half-hp)
+
+| `B`
+| Bithell
+| meet druid, go shopping, maybe some light theft, boss fight
+| roleplay / combat / exploration
+
+| `C`
+| forest path
+| dire wolves, environmental way to damage them, can get wolves to retreat, river as barrier (fail into village, nbd, just takes a few rounds to get back)
+| combat (5 dire wolves)
+
+| `D`
+| deep forest
+| trees guarding treasure, a river to jump over (fail into village, nbd, just takes a few rounds to get back), hidden paths into village and into werewolf cave
+| exploration / optional combat (2 awakened trees)
+
+| `E`
+| cave entrance
+| cave looks more like somebody's home, investigation will find evidence that the werewolf is probably innocent (diary which talks about druid's potions, the sleeping potions, a kitchen stocked with vegetarian foods)
+| exploration
+
+| `F`
+| werewolf den
+| meet werewolf and his wolf pets, choose whether or not to believe/kill him, he reveals the path west if you don't kill him (although it can be found anyway)
+| roleplay / optional combat (1 werewolf + n wolves that retreated)
+
+|===
+
+== Stat Blocks
+
+=== Dire Wolf
+
+==== Pre-rolls
+
+[cols="1, 10"]
+|===
+| initiative | HP
+| 17 | 39
+| 17 | 33
+| 11 | 40
+| 7 | 44
+| 7 40
+|===
+
+==== Actions
+
+[cols="2, 5*1, 10"]
+|===
+| name | attack | range | damage | # targets | # attacks | other
+
+| bite
+| +5
+| 5ft
+| 2d6 + 3 (piercing)
+| 1
+| 1
+| DC 13 STR save or be knocked prone
+|===
+
+==== Stats
+
+[cols="9*1"]
+|===
+| AC | HP | speed | STR | DEX | CON | INT | WIS | CHA
+| 14 (natural armor)
+| 5d10 + 10
+| 50ft
+| +3
+| +2
+| +2
+| -4
+| +1
+| -2
+|===
+
+//TODO: other stat blocks, maybe next time
+
+== Shops
+
+=== Druid's Apothecary
+
+[cols="1, 10", options="header"]
+|===
+
+| gp
+| item
+| description
+
+| 50
+| potion of healing
+| 2d4 + 2 healing
+
+| 150
+| potion of greater healing
+| 4d4 + 4 healing
+
+| 100
+| potion of poision
+| looks and tastes like a potion of healing; 3d6 poison damage; DC 13 CON save or be poisoned (disadvantage on attack rolls & ability checks)
+
+| 180
+| potion of climbing
+| advantage on Athletics checks made to climb; lasts 1 hour
+
+| 400
+| potion of speed
+| +2 to AC; advantage on DEX saves; free Attack, Dash, Disengage, Hide, or Use Object every turn; lasts 1 minute
+
+|===
+
+=== Little Wizard's Hidden Oils Shop
+
+[cols="1, 10", options="header"]
+|===
+
+| gp
+| item
+| description
+
+| 1000
+| oil of elements
+| choose one damage type when you apply the oil; deal 1d10 extra damage of the chosen type; apply to 1 weapon or 5 ammo; takes 1 minute to apply; lasts 10 minutes
+
+| 1000
+| oil of sharpness
+| +3 to attack and damage; apply to 1 weapon or 5 ammo; takes 1 minute to apply; lasts 10 minutes
+
+| 1000
+| oil of absorption
+| +3 to AC; apply to 1 piece of armor or a shield; takes 1 minute to apply; lasts 10 minutes
+
+| 1000
+| oil of etherealness
+| enter the ethereal plane; move in any direction (including up) at half speed; effect ends if you willingly interact with anything non-ethereal; apply to 1 creature (medium or smaller) and their stuff; takes 1 minutes to apply; lasts 10 minutes
+
+| 1 million
+| a very special secret
+| ???
+
+|===
