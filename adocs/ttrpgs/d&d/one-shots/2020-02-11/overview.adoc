@@ -73,63 +73,208 @@ A - C - E
 
 == Stat Blocks
 
-=== Dire Wolf
+=== Druid Wolf Form
 
-==== Pre-rolls
+* use potions as lair actions--healing if needed; otherwise, stacking strength
+* never retreat
+* after reverting to human form, die
 
-[cols="1, 10"]
+[cols="1, 4, 4*2, 8", options="header"]
 |===
-| initiative | HP
-| 17 | 39
-| 17 | 33
-| 11 | 40
-| 7 | 44
-| 7 40
+| | action | hit | amount | type | target | other
+
+7+| multiattack
+
+| A
+| bite/claw
+| +4
+| 2d6
+| piercing
+| 1 (5ft)
+| DC 13 STR save or be knocked prone
+
+| L
+| greater healing potion
+| 
+| 4d4 + 4
+| healing
+| self
+| 
+
+| L
+| strength potion
+| 
+| 
+| 
+| self
+| +2 damage; stacks
 |===
 
-==== Actions
-
-[cols="2, 5*1, 10"]
+[cols="5*1", options="header"]
 |===
-| name | attack | range | damage | # targets | # attacks | other
+| AC | HP | speed | initiative | perception
+| 15
+| 60
+| 40ft
+| +1
+| 14
+|===
 
-| bite
-| +5
-| 5ft
-| 2d6 + 3 (piercing)
-| 1
-| 1
+[cols="6*1", options="header"]
+|===
+| STR | DEX | CON | INT | WIS | CHA
+| +2 | +1 | +2 | +0 | +0 | +0
+|===
+
+[cols=">1, 10", options="header"]
+|===
+| bonus | for
+| +3 | perception
+| +4 | stealth
+| advantage | hearing/smelling
+| advantage | attacking someone within range of an ally
+2+<| can't be killed without silvered weapon
+|===
+
+=== Werewolf
+
+* lash out at nearby people
+* retreat further into dungeon if bloodied
+
+[cols="1, 4, 4*2, 8", options="header"]
+|===
+| | action | hit | amount | type | target | other
+
+7+| multiattack
+
+| A
+| bite/claw
+| +4
+| 2d6
+| piercing
+| 1 (5ft)
 | DC 13 STR save or be knocked prone
 |===
 
-==== Stats
-
-[cols="9*1"]
+[cols="5*1", options="header"]
 |===
-| AC | HP | speed | STR | DEX | CON | INT | WIS | CHA
-| 14 (natural armor)
-| 5d10 + 10
-| 50ft
-| +3
-| +2
-| +2
-| -4
+| AC | HP | speed | initiative | perception
+| 15
+| 60
+| 40ft
 | +1
-| -2
+| 14
 |===
 
-//TODO: other stat blocks, maybe next time
+[cols="6*1", options="header"]
+|===
+| STR | DEX | CON | INT | WIS | CHA
+| +2 | +1 | +2 | +0 | +0 | +0
+|===
+
+[cols=">1, 10", options="header"]
+|===
+| bonus | for
+| +3 | perception
+| +4 | stealth
+| advantage | hearing/smelling
+| advantage | attacking someone within range of an ally
+2+<| can't be killed without silvered weapon
+|===
+
+=== Wolf
+
+* attempt ambush
+* surround prey
+* retreat further into dungeon if bloodied
+
+[cols="1, 4, 4*2, 8", options="header"]
+|===
+| | action | hit | amount | type | target | other
+
+| A
+| bite
+| +5
+| 2d6
+| piercing
+| 1 (5ft)
+| DC 13 STR save or be knocked prone
+|===
+
+[cols="5*1", options="header"]
+|===
+| AC | HP | speed | initiative | perception
+| 14
+| 30
+| 50ft
+| +2
+| 13
+|===
+
+[cols="6*1", options="header"]
+|===
+| STR | DEX | CON | INT | WIS | CHA
+| +3 | +2 | +2 | -4 | +1 | -2
+|===
+
+[cols=">1, 10", options="header"]
+|===
+| bonus | for
+| +3 | perception
+| +4 | stealth
+| advantage | hearing/smelling
+| advantage | attacking someone within range of an ally
+|===
+
+=== Awakened Tree
+
+* stay still until someone tries to take something from nearby
+* flee from fire
+
+[cols="1, 4, 4*2, 8", options="header"]
+|===
+| | action | hit | amount | type | target | other
+
+| A
+| slam
+| +6
+| 3d6 + 4
+| bludgeoning
+| 1 (10ft)
+| 
+|===
+
+[cols="5*1", options="header"]
+|===
+| AC | HP | speed | initiative | perception
+| 13
+| 50
+| 20ft
+| -2
+| 10
+|===
+
+[cols="6*1", options="header"]
+|===
+| STR | DEX | CON | INT | WIS | CHA
+| +4 | -2 | +2 | 0 | 0 | -2
+|===
+
+[cols=">1, 10", options="header"]
+|===
+| bonus | for
+| vulnerability | fire
+| resistance | bludgeoning, piercing
+2+<| undetectable while standing still
+|===
 
 == Shops
 
 === Druid's Apothecary
 
-[cols="1, 2, 10", options="header"]
+[cols="1, 2, 5", options="header"]
 |===
-
-| gp
-| item
-| description
+| gp | item | description
 
 | 50
 | potion of healing
@@ -155,12 +300,9 @@ A - C - E
 
 === Little Wizard's Hidden Oils Shop
 
-[cols="1, 2, 10", options="header"]
+[cols="1, 2, 5", options="header"]
 |===
-
-| gp
-| item
-| description
+| gp | item | description
 
 | 1000
 | oil of elements
