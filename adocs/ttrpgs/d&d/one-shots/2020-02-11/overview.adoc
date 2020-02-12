@@ -124,7 +124,7 @@ A - C - E
 
 === Druid's Apothecary
 
-[cols="1, 10", options="header"]
+[cols="1, 2, 10", options="header"]
 |===
 
 | gp
@@ -155,7 +155,7 @@ A - C - E
 
 === Little Wizard's Hidden Oils Shop
 
-[cols="1, 10", options="header"]
+[cols="1, 2, 10", options="header"]
 |===
 
 | gp
