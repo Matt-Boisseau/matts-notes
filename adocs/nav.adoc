@@ -1,12 +1,6 @@
 * link:/home[Home]
 * Blog
 ** `//TODO`
-* TTRPGs
-** D&D
-*** One-Shots
-**** `//TODO`
-** Homebrew Systems
-*** Courier
-**** `//TODO`
-*** Spaceship Guys
-**** `//TODO`
+* D&D
+** One-Shots
+*** `//TODO`
