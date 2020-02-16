@@ -1,0 +1,20 @@
+= Zilzu Quillsharpener
+
+== Character
+
+include::zilzu/background.adoc[leveloffset=+2]
+include::zilzu/characteristics.adoc[leveloffset=+2]
+include::zilzu/3x3.adoc[leveloffset=+2]
+
+== Magic Reference
+
+include::zilzu/infusions.adoc[leveloffset=+2]
+include::zilzu/spells.adoc[leveloffset=+2]
+
+.dope magic items to maybe create
+* mystery key (1-in-20 to unlock a door, disappears on success)
+* perfume of bewitching (apply to self for advantage on CHA checks on challenge-1 humanoids, 1 charge)
+* pole of collapsing (1ft rod that changes to 10ft on a command word)
+* rope of climbing (60ft rope that moves on its own, knots, etc)
+* sending stones (come in pairs, touching one lets you cast "sending" to the other stone)
+* walloping ammunition (creature hit by this must succeed on DC 10 STR save or be knocked prone)

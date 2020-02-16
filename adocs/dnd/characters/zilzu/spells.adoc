@@ -1,0 +1,183 @@
+= Spells
+
+[cols="1,1,4*5", options="header"]
+|===
+| level
+| prepared spells
+| alchemist spells +
+(always prepared)
+| scribe's insight +
+(always prepared / limited use)
+| spells of the mark +
+(added to spell list)
+| loadout
+
+6+^| 1st level spells
+
+| 1
+| 3
+| 
+| `1/SR` comprehend languages +
+`C` message
+| `1` comprehend languages +
+`1` illusory script
+| -
+
+| 2
+| 4
+| 
+| 
+| 
+| -
+
+| 3
+| 4
+| `1` healing word +
+`1` ray of sickness
+| `1/LR` magic mouth
+| 
+| `1/SR` _comprehend languages_ +
+`1/LR` _magic mouth_ +
+`C` _message_ +
+`C` _mending_ +
+`C` _spare the dying_ +
+`1` detect magic +
+`1` feather fall +
+`1` _healing word_ +
+`1` identify +
+`1` illusory script +
+`1` _ray of sickness_
+
+| 4
+| 5
+| 
+| 
+| 
+| 
+
+6+^| 2nd level spells
+
+| 5
+| 5
+| `2` flaming sphere +
+`2` melf's acid arrow
+| 
+| `2` animal messenger +
+`2` silence
+| 
+
+| 6
+| 6
+| 
+| 
+| 
+| 
+
+| 7
+| 6
+| 
+| 
+| 
+| 
+
+| 8
+| 7
+| 
+| 
+| 
+| 
+
+6+^| 3rd level spells
+
+| 9
+| 7
+| `3` gaseous form +
+`3` mass healing word
+| 
+| `3` sending +
+`3` tongues
+| 
+
+| 10
+| 8
+| 
+| 
+| 
+| 
+
+| 11
+| 8
+| 
+| 
+| 
+| 
+
+| 12
+| 9
+| 
+| 
+| 
+| 
+
+6+^| 4th level spells
+
+| 13
+| 9
+| `4` blight +
+`4` death ward
+| 
+| `4` confusion
+| 
+
+| 14
+| 10
+| 
+| 
+| 
+| 
+
+| 15
+| 10
+| 
+| 
+| 
+| 
+
+| 16
+| 11
+| 
+| 
+| 
+| 
+
+6+^| 5th level spells
+
+| 17
+| 11
+| `5` cloudkill +
+`5` raise dead
+| 
+| `5` dream
+| 
+
+| 18
+| 12
+| 
+| 
+| 
+| 
+
+| 19
+| 12
+| 
+| 
+| 
+| 
+
+| 20
+| 13
+| 
+| 
+| 
+| 
+|===

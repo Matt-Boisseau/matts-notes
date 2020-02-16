@@ -1,0 +1,51 @@
+= 3x3
+
+[cols="1,1,2,5", options="header"]
+|===
+| name | position | known from | description
+
+| Lanmop Quillsharpener
+| ally
+| Quillsharpener family business
+| 
+
+| 
+| ally
+| city watch
+| 
+
+| 
+| ally
+| 
+| 
+
+| 
+| neutral
+| 
+| 
+
+| 
+| neutral
+| 
+| 
+
+| 
+| neutral
+| 
+| 
+
+| 
+| enemy
+| 
+| 
+
+| 
+| enemy
+| 
+| 
+
+| 
+| enemy
+| 
+| 
+|===

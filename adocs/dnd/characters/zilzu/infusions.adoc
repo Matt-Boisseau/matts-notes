@@ -1,0 +1,12 @@
+= Infusions
+
+[cols="1,10", options="header"]
+|===
+| level range | max infused items
+| 1 | 0
+| 2-5 | 2
+| 6-9 | 3
+| 10-13 | 4
+| 14-17 | 5
+| 18+ | 6
+|===
