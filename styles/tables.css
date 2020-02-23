@@ -3,10 +3,13 @@ table.tableblock {
 	border-spacing: 0;
 	border-radius: var(--u-roundness);
 	overflow: hidden;
+	border: 1px var(--c-text-light) solid;
+	border-collapse: collapse;
 }
 
 .tableblock td {
 	padding: 0 var(--u-table-padding);
+	border: 1px white solid;
 }
 
 .tableblock th {
@@ -36,4 +39,16 @@ table.tableblock {
 
 .tableblock .halign-center {
 	text-align: center;
+}
+
+.tableblock .valign-top {
+	vertical-align: top;
+}
+
+.tableblock .valign-bottom {
+	vertical-align: bottom;
+}
+
+.tableblock .valign-middle {
+	vertical-align: middle;
 }

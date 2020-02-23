@@ -1,0 +1,38 @@
+= Aneurin Campaign Current Status
+
+`LAST UPDATED: 2020-02-23`
+
+== Experience
+
+link:house-rules/experience[Aneurin XP Rules]
+
+[cols="3,<1,<1", options="header"]
+|===
+| character
+| XP
+| level
+
+| **party**
+| 12
+| 7
+
+| Kyran
+| 12
+| 7
+
+| Oolong
+| 12
+| 7
+
+| Shoes
+| 12
+| 7
+
+| Thump
+| 12
+| 7
+
+| (Dane's new character)
+| 12
+| 7
+|===

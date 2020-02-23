@@ -1,0 +1,64 @@
+= Experience
+
+The party levels up separately from its characters. At the end of each session, XP is distributed as follows:
+
+* each character gains 1 XP
+* the party gains 1 XP
+* each character with less XP than the party gains another 1 XP
+
+In effect, this means that new characters gain double experience until they catch up to the rest of the party.
+
+A player can introduce a new character whenever they want, and will need to do so if their character dies. While a player can have any number of characters, they can only take one on each adventure. Characters who don't participate (including those belonging to players who didn't attend the session) gain no experience.
+
+To level up, a character needs to gain XP equal to half of their current level. That is, each level costs 0.5 more XP than the previous. Because we won't be giving out half XP points, always round up.
+
+If you prefer an equation, the XP needed for a level _L_ is _⌈(L^2^-L)/4⌉_.
+
+Tiers apply to the party (not to individual characters) and come with certain benefits.
+
+[cols="5,1,1", options="header"]
+|===
+| tier |level | total XP
+.4+<| *Local Heroes*
+
+"Characters in this tier are still learning the range of class features that define them, including their choice of specialization. But even 1st-level characters are heroes, set apart from the common people by natural characteristics, learned skills, and the hint of a greater destiny that lies before them."
+
+|1|0
+|2|1
+|3|2
+|4|3
+.6+<| *Heroes of the Realm*
+
+"By the time they reach this tier, adventurers have mastered the basics of their class features, though they continue to improve throughout these levels. They have found their place in the world and have begun to involve themselves in the dangers that surround them."
+
+*Perk:* Home Base
+
+|5|5
+|6|8
+|7|11
+|8|14
+|9|18
+|10|23
+.6+<| *Masters of the Realm*
+
+"By 11th level, characters are shining examples of courage and determination — true paragons in the world, set well apart from the masses. At this tier, adventurers are far more versatile than they were at lower levels, and they can usually find the right tool for a given challenge."
+
+*Perk:* ???
+
+|11|28
+|12|33
+|13|39
+|14|46
+|15|53
+|16|60
+.4+<| *Masters of the World*
+
+"By 17th level, characters have superheroic capabilities, and their deeds and adventures are the stuff of legend. Ordinary people can hardly dream of such heights of power — or such terrible dangers."
+
+*Perk:* ???
+
+|17|68
+|18|77
+|19|86
+|20|95
+|===
