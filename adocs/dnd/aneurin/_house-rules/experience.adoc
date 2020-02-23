@@ -1,0 +1,25 @@
+= Experience
+:stem: 1
+
+As a variant of "milestone" levelling, XP is distributed at the end of each session as follows:
+
+* _Party XP_ increases by 1
+* each character gains 2 XP, up to a maximum of _Party XP_
+
+In effect, this means that characters gain double experience until they catch up to _Party XP_.
+
+To level up, a character needs to gain XP equal to half of their current level. That is, each level costs 0.5 more XP than the previous. Because we won't be giving out half XP points, always round up. (If you prefer an equation, the XP needed for a given level is ⌈L^2^-L)/4⌉.)
+
+asciimath:[ceil((L^2-L)/4)]
+
+// [cols=">2h,20*^1"]
+// |===
+// |level|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20
+// |total XP|0|1|3|6|10|15|21|28|36|45|55|66|78|91|105|120|136|153|171|190
+// |===
+
+[cols=">2h,20*^1"]
+|===
+|level|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20
+|total XP|0|1|2|3|5|8|11|14|18|23|28|33|39|46|53|60|68|77|86|95
+|===
