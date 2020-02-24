@@ -1,5 +1,7 @@
 = Experience
 
+== Gaining XP
+
 The party levels up separately from its characters. At the end of each session, XP is distributed as follows:
 
 * each character gains 1 XP
@@ -8,11 +10,19 @@ The party levels up separately from its characters. At the end of each session, 
 
 In effect, this means that new characters gain double experience until they catch up to the rest of the party.
 
+== New Characters
+
 A player can introduce a new character whenever they want, and will need to do so if their character dies. While a player can have any number of characters, they can only take one on each adventure. Characters who don't participate (including those belonging to players who didn't attend the session) gain no experience.
+
+== Extra Rewards
+
+The DM should never award XP beyond these rules; the idea here is that adventurers gain experience whether they succeed or fail, and the party matures even if some members don't make it out alive. Extraneous rewards should always be currency or items.
+
+== Levels
 
 To level up, a character needs to gain XP equal to half of their current level. That is, each level costs 0.5 more XP than the previous. Because we won't be giving out half XP points, always round up.
 
-If you prefer an equation, the XP needed for a level _L_ is _⌈(L^2^-L)/4⌉_.
+If you prefer an equation, the XP needed to acquire a level _L_ is _⌈(L^2^-L)/4⌉_.
 
 Tiers apply to the party (not to individual characters) and come with certain benefits.
 

@@ -4,7 +4,9 @@
 
 == Experience
 
-link:house-rules/experience[Aneurin XP Rules]
+Remember: a character's XP cannot exceed the party XP.
+
+link:house-rules/experience[see XP Rules]
 
 [cols="3,<1,<1", options="header"]
 |===
@@ -35,4 +37,62 @@ link:house-rules/experience[Aneurin XP Rules]
 | (Dane's new character)
 | 12
 | 7
+|===
+
+== Home Base
+
+link:house-rules/home-base[see Home Base Rules]
+
+=== Expenses
+
+The DM will roll for these after every session.
+
+[cols="2,3,3,2", options="header"]
+|===
+| month
+| expenses (gp)
+| profits (gp)
+| total (gp)
+
+| 1
+| -10 +
+`10*1*1`
+| +1000 +
+`10*100*1`
+| +990
+|===
+
+=== Storage
+
+If you want to take something out, you must either be the player who deposited it. Removing party-owned items requires majority approval.
+
+[cols="4,4,2", options="header"]
+|===
+| owner
+| item
+| count
+
+1+| party
+| gold
+| 990
+|===
+
+=== Employees & Risk
+
+[cols="6,2,2", options="header"]
+|===
+| expansion
+| employees
+| risk
+
+| *base total*
+| 1
+| 1
+
+2+>| other risk factors
+| 0
+
+| Small Business
+| 1
+| 1
 |===

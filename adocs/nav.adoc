@@ -6,5 +6,6 @@
 *** link:/dnd/aneurin/current-state[Current State]
 *** House Rules
 **** link:/dnd/aneurin/house-rules/experience[Experience]
+**** link:/dnd/aneurin/house-rules/home-base[Home Base]
 ** One-Shots
 *** `//TODO`

@@ -1,0 +1,134 @@
+= Home Base
+
+Every adventure begins and ends at the same location: the party's Home Base.
+
+Starting at Tier 2 (level 5), the party can customize the Home Base by spending gp and resources to add Expansions. Home Base Expansions come with powerful abilities and passive effects, but add to the monthly operational expense that is paid between each adventure.
+
+== Risk
+
+A bigger Home Base attracts more attention. The base gains 1 Risk whenever it expands, which increases expenses and chance of invasion.
+
+== Expenses
+
+The monthly expense for _e_ Employees and _r_ Risk is _(10 * e * r)_ gp. This covers wages, maintenance, and the purchase of intermediary resources.
+
+Every time the expense isn't paid, Risk will increase by 1, making future expenses larger and invasions more likely.
+
+== Expansions
+
+Unless stated otherwise, each Expansion:
+
+* is under construction for 1 month
+* increases Risk by 1 once completed
+* cannot be built more than once
+* can be deconstructed to remove employees and decrease Risk by 1
+
+[cols="2,2,6", options="header"]
+|===
+| cost to build | employees | ability
+
+3+| *Small Business.* A public storefront that makes more money in a Home Base with more notoriety (higher Risk).
+| 1,000 gp
+| 1
+| _Once per month:_ +
+For _r_ Risk, gain _(1d10 * 100 * r)_ gp.
+
+3+| *Stable.* A place to keep the adventurers' mighty steeds.
+| 1,000 gp
+| 2
+| _Passive:_ +
+While travelling, adventurers can cross 2 road hexes in a day (instead of the usual 1). Additionally, mounted characters don't suffer from encumbrance.
+
+3+| *Workshop.* A private work area where adventurers can craft their own supplies.
+| 1,000 gp
+| 0
+| _Once per character per month:_ +
+Create any non-magical item for half of its cost.
+
+3+| *Hideout.* A secret place known only to the adventurers.
+| 1,000 gp
+| 0
+| _Passive:_ +
+Hide gold or items so that invaders can't take them while the party is away (max contents: 10×10×10 ft).
+
+3+| *Library.* A private collection of books on history, magic, and more.
+| 1,000 gp
+| 1
+| _Passive:_ +
+INT and WIS checks made by characters within the Home Base are rolled with advantage.
+
+3+| *Keep.* A towering and fortified central tower that makes the Home Base much easier to defend.
+| 2,000 gp
+| 10
+| _Passive:_ +
+-10 Risk.
+
+3+| *Arcane Study.* A private place to practice and record spells.
+| 2,000 gp
+| 0
+| _Once per character per month:_ +
+Create a scroll for any spell. For a level _L_ spell, the cost is _100^L+1^_ gp. (Treat cantrips as level 0.)
+
+3+| *Spy Room.* A secret office where the adventurers' informants gather information from around the known world.
+| 2,000 gp
+| 5
+| _Once per month:_ +
+Ask the GM for actionable intel on any one person, faction, or location. Increase Risk by 1.
+
+3+| *Great Hall.* A public place to meet with friends, negotiate with enemies, and host parties.
+| 5,000 gp
+| 10
+| _Once per month:_ +
+Decrease Risk by a desired value _r_ by spending _(1000^r^)_ gp.
+
+3+| *Shrine.* A public place to worship a deity of the party's choice.
+| 5,000 gp
+| 1
+| _Passive:_ +
+Each member of the party receives a blessing each time they rest at the Home Base. The specific effect of the blessing will depend on the selected deity; this should be agreed upon with the DM before the party commits to building this Expansion.
+|===
+
+== Invasions
+
+Invasions may occur when the party is away from home. Each time the party returns, roll 1d20 + Risk.
+
+[cols=">2,4,2,2", options="header"]
+|===
+| 1d20+r
+| description
+| loss
+| Risk
+
+| <1
+| people came seeking asylum
+| 0
+| +1
+
+| 1-11
+3+| nothing happened while the party was away
+
+| 11-15
+| robbers attempted to sneak in, but only managed to cause some property damage
+| 1d20 × 10 gp
+| no change
+
+| 16-20
+| bandits made off with a little gold
+| 1d20 × 100 gp +
+& the most valuable item
+| +1
+
+| 21-25
+| raiders killed several employees and made off with as much gold as they could carry
+| 1d20 × 1,000 gp +
+& the 2 most valuable items
+| +2
+
+| 26-30
+| the base was completely ransacked
+| everything
+| -5
+
+| >30
+3+| the base was destroyed, and must now be rebuilt from scratch
+|===
