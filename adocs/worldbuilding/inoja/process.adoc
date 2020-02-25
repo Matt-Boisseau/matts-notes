@@ -1,0 +1,65 @@
+= Building _Inoja_
+
+== Forward
+
+_Inoja_ is a worldbuilding project that I'm starting now as an attempt to coalesce previous worldbuilding attempts into something more robust. Some features I'm cannibalizing from the past decade of dreaming are:
+
+* the _Ip_ language, designed to be spoken by humanoids without teeth
+* a simulated Earth-like planet made imperfect by an AI with an incomplete understanding of geology and biology
+* a tiny planet with tectonics so accelerated and exaggerated that geological events are observable within individual lifetimes
+* a universe comprised entirely of "backup" copies of a single planet, which get incorporated into the interplanetary society on their "birthdays"
+* the concept of animism (which is a real-world belief system) taken to the logical extreme (which is that inanimate objects can be reasoned with)
+* a society in which more important people spend more time in cryostasis, such that world leaders might only wake once a year and rule for thousands of years
+* an emphasis on the sidereal lunar calendar and the idea that each "moon" is best suited for a specific suite of activities
+
+With these as my anchor points, I'm going to start from the bottom and work up. Because _Inoja_ is intentionally Earth-like, it will follow along somewhat closely to the Earth formula, except where that would conflict with one of my anchors (or where I make uneducated guesses).
+
+This process is going to involve a lot of research, but I have no delusions about getting everything "right." Anything "wrong" can be attributed to the fact that the in-fiction AI designer of this world is also doing some guesswork. I guess that's kind of my little cheat code, but I'm going to try not to use it as a crutch.
+
+TIP: Oh, and watch out for these little asides. I'll include stuff that doesn't relate to the current process, like _Ip_ language notes or cultural implications.
+
+== Geology
+
+=== Formation
+
+Something like 4.6 billion years ago, Earth formed from an accretion disk, which is basically bits of space stuff gathering up due to their collective gravities. Earth was then hot as hell for 500 million years, which is why we call this the Hadean Eon (you know, like Hades). It's literally a lava world, like Star Wars' Mustafar (where Obi has the high ground).
+
+For _Inoja_, it makes a bit more sense to just start with a big molten sphere. This is basically just `right click -> new project` for our AI creator.
+
+This is also the time during which moonlets fell into Earth's orbit after a big impact. I think this is fine as just part of the `new project` config. Check that box next to "Earth-like" to start with a moon and sun.
+
+Because we're going to be dealing with lots of tiny copy-paste planets, it will be cleanest to package a sun and moon with each planet. _Inoja_ is the center of its own private system, with an orbiting sun and moon. There will be a 1:1:1 ratio of planets, suns, and moons in this universe.
+
+=== Scale
+
+_Inoja_ being tiny with relation to Earth naturally means that its sun and moon will be tiny with relation to Earth's sun and moon. Let's get some rough sizes out of the way right here:
+
+Earth has a diameter of ~13000 km, but circumference is a more useful measurement for us Earthings on the ground; that's ~40000 km. Big numbers like that are hard to think about, so let's call it 1000 days across (as 40km is a reasonable amount to walk in one day). I might change this later, but 6 months feels about right as the amount of time it should take to circumnavigate _Inoja_ on foot.
+
+6 months -> 180 days -> 0.18 Earths -> 7200 km
+
+That's the distance between Columbus and Honolulu, which is a 10 hour flight. It's also the distance between Miami and Nome, which would probably take around 4 days nonstop to drive. Another close fit is Beijing to Berlin.
+
+.Beijing to Berlin (Google Maps)
+image::/media/images/beijing-berlin.png[]
+
+So 18% is our scale. That makes _Inoja_ 2300 km in diameter and its moon 625 km in diameter. The distance between these guys is 70000 km.
+
+The sun would be 250000 km, except that _Inoja_'s sun is as close as its moon. If we scale it down accordingly such that it's the same size in the sky, it's only 650 km, just a bit larger than the moon.
+
+.Inoja system
+image::/media/images/inoja-system.png[]
+
+Keep in mind that these celestial bodies are artificial and created with intention. We have to assume that gravity works differently in this universe.
+
+TIP: It's probably about time we give the sun and moon _Ip_ names. I'm going to go with _Inaifija_ `/ˈin-ʋa-ˈiɸ-i-ja/` ("hot planet") and _Inaifijo_ `/ˈin-ʋa-ˈiɸ-i-jo/` ("cold planet"). _Inoja_ `/ˈin-o-ja/` itself translates to "planetary place," implying that it's the only one of the three than can be visited. Much like with Earth, _In_ `/ˈin/` ("terrain") can be used to describe either the world or the dirt.
+
+=== Time
+
+Another kind of scale to consider is time. As previously noted, geological processes on this planet should be fast enough to be observed in a normal lifetime. On Earth, tectonic plates move about 5 cm every year. Let's bump that up to 1 m (20x faster). At that rate, a 90-year old tree could move down the length of a football field.
+
+20x will do well for all of _Inoja_'s large-scale processes. It is supposed to be Earth-like, so we'll keep 24 hour days.
+
+=== First Life
+
+On Earth, the first life emerged somewhere around 4 billion years ago when lots of meteoroid impacts created the thermal energy that cooked organic "stuff" into living "stuff." That process is called abiogenesis.
