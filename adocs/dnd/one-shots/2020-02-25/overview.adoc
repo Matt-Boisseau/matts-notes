@@ -1,0 +1,129 @@
+= Unnamed Adventure
+
+== Brief
+
+When the party goes to turn in a quest at the Baron's castle, an orc army attacks. The PCs must keep moving to stay ahead of the horde. The cowardly orcs will retreat if their chief is defeated, but he will repeatedly escape until cornered.
+
+== Flow
+
+. PCs get a moment in town
+. a panicked scout runs in, warning of the approaching orc army
+. Skarbog Boar-Rider charges in
+. every encounter (except the optional one if they choose to take both streets) starts with Skarbog, but he retreats if he takes any damage
+. Skarbog leaves his boar to guard the bridge if it is still alive at that point
+
+== Idea
+
+* PCs show up to the Baron's castle to turn in their quest
+** and to either get another quest or berate him for tax policy lol
+* after the PCs decide to move on from the bailey to the keep, they hear orc war horns
+** help fend off orcs while the main gate is closed
+** get to the baron (who is killed by the orc chief?)
+** the only way out is to kill the chief, which will cause the other orcs to retreat
+
+main gate <-> bailey <-> scarp <-> keep
+
+== Map
+
+```
+A - B   F
+|   |   |
+C - D - E
+```
+
+== Zones
+
+[cols="1, 5, 10, 5", options="header"]
+|===
+
+| 
+| name
+| brief
+| pillar
+
+| `A`
+| main gate
+| orcs are trying to get through
+| COMBAT (protect the gate for 3 turns) +
+RP (soldiers)
+
+| `B`
+| bailey (shops)
+| orcs are looting the shops
+| COMBAT (orcs) +
+EXPLORATION (treasure)
+
+| `C`
+| bailey (homes)
+| orcs are looting the homes
+| COMBAT (orcs) +
+EXPLORATION (treasure)
+
+| `D`
+| bridge
+| the orc chief crosses the bridge and then cuts it to prevent PCs from following
+| EXPLORATION (bridge is out)
+
+| `E`
+| keep (F1)
+| the PCs find dead guards and orcs +
+if the PCs make any moves other than talking, the orc chief kills the baron and then retreats upstairs, locking the door
+| RP (baron, orc chief) +
+EXPLORATION (how to get upstairs) +
+possible half-combat
+
+| `F`
+| keep (F2)
+| killing the orc chief is the only way to get the orcs to retreat +
+turns out that he's only the tip of the iceberg... more invasions are coming
+| RP (orc chief) +
+COMBAT (boss fight)
+|===
+
+== Encounters
+
+=== Gate
+
+5x orc
+1x Orc Blade of Ilneval
+
+HAZARD: none
+
+Start with 3 orcs and Skarbog (statted as Orc Blade of Ilneval). Add 1 orc at the ends of round 1 and round 2.
+
+Skarbog is mounted, but doesn't take any advantage of it here. He retreats if he takes any damage.
+
+Other orcs are being fought by the Baron's soldiers.
+
+=== Street 1
+
+3x orc
+3x worg
+1x Orc Blade of Ilneval
+
+HAZARD: fire
+
+Orcs are riding worgs, so they use the worg's initiative and movement.
+
+An orc falls off if he is bloodied or if his worg is killed. Unmounted worgs still fight.
+
+Skarbog maintains any damage he sustained from the previous encounter. He gains 10 hp up to 40.
+
+Skarbog is mounted, but doesn't take any advantage of it here. He retreats if he takes any damage.
+
+=== Street 2 (bonus optional)
+
+3x orc
+1x giant boar
+
+HAZARD: thin corridor created by rubble
+
+Here, Skarbog's giant boar is on a rampage. There is treasure to be gained by defeating it.
+
+=== Tower
+
+1x Orc Blade of Ilneval
+
+HAZARD: falling
+
+Skarbog maintains any damage he sustained from the previous encounter. He gains 10 hp up to 30.
