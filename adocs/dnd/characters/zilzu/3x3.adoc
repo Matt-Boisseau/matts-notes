@@ -7,12 +7,17 @@
 | Lanmop Quillsharpener
 | ally
 | Quillsharpener family business
-| 
+| male gnome scribe +
+mentor to Zilzu in his youth +
+strict, wise, very old
 
 | 
 | ally
 | city watch
-| 
+| male half-orc low-ranking watchman +
+taken under Zilzu's wing +
+terrible alchemist, but keeps trying +
+naive, quick-tempered, loyal to a fault
 
 | 
 | ally
@@ -21,8 +26,11 @@
 
 | 
 | neutral
-| 
-| 
+| Zilzu's hometown
+| female human thief-turned-informant +
+too slippery to be arrested, so Zilzu made her a deal +
+uncanny knowledge of all heavily populated areas +
+suspicious, money-motivated, skittish
 
 | 
 | neutral
@@ -36,16 +44,27 @@
 
 | 
 | enemy
-| 
-| 
+| city watch
+| male dwarf sergeant +
+resents Zilzu for his failure to stop the criminals who killed the other watchmen +
+commands the city watch +
+quick to act, overly forceful, victimizes himself
 
 | 
 | enemy
-| 
-| 
+| Zilzu's hometown
+| female gnome crime lord +
+killed several watchmen in a crime spree many years ago +
+wealthy beyond reason +
+garish, cunning, ruthless
 
 | 
 | enemy
-| 
-| 
+| Quillsharpener family business
+| male gnome outlaw +
+used to work as a scribe, but turned to petty crime +
+repeatedly thwarted by Zilzu when he worked for the watch +
+dim-witted, greedy, short-sighted +
+coincidentally happens to frequently show up at the same place/time as Zilzu +
+both of them are convinced the other is following them
 |===
