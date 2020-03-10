@@ -11,3 +11,8 @@ pre code {
 	padding: var(--u-table-padding);
 	tab-size: 4;
 }
+
+.tableblock tbody tr:nth-child(even) code,
+.admonitionblock code {
+	background-color: var(--c-bg1);
+}

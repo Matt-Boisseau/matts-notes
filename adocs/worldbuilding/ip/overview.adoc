@@ -1,0 +1,6 @@
+= _Ip_
+
+include::_phonology.adoc[leveloffset=+1]
+include::_phonotactics.adoc[leveloffset=+1]
+include::_morphology.adoc[leveloffset=+1]
+include::_syntax.adoc[leveloffset=+1]

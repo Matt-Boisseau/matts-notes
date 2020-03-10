@@ -1,0 +1,106 @@
+= Syntax
+
+The general structure of an _Ip_ sentence is `context->actor->patient->verb`. Each part is optional, except the `actor`.
+
+* `context` is used to establish tense, modality, agency, and evidentiality.
+* `actor` is the person or thing that is affecting the `patient`.
+* `patient` is the person or thing being affected by the `actor`.
+* `verb` is the way in which the `actor` is affecting the `patient`.
+
+Example:
+
+```
+Ipaji ipija ozijo.
+
+/ip-    ʋa-ji ip-    i-ja      oʒ-        i-jo   /
+ person.mine  person.excessive evaluation.lacking
+ me           crowd            badness
+ I don't like crowds.
+```
+
+It is possible to provide context, but it doesn't change the meaning in this case (although it does change the tone to one of exasperation):
+
+```
+Jijo ipaji ipija ozijo.
+
+/ji-jo        ip-    ʋa-ji ip-    i-ja      oʒ-        i-jo   /
+ self-evident person.mine  person.excessive evaluation.lacking
+ self-evident me           crowd            badness
+ It is a self-evident truth that I don't like crowds.
+```
+
+It is not possible to structure the sentence with not `actor`. The following sentence uses no `verb` (implying "is") in order to remove the `actor`. The meaning of the sentence changes slightly from an expression of preference to an assertation of fact. However, it is still appropriate in the context of a discussion of preference.
+
+```
+Ipija ozijo.
+
+/ip-    i-ja      oʒ-        i-jo   /
+ person.excessive evaluation.lacking
+ crowd            badness
+ Crowds are bad.
+```
+
+Without the context of a discussion of preference, the speaker might choose to include the "first-hand knowledge" `context` to clarify that the statement is based on their experience:
+
+```
+Ji ipija ozijo.
+
+/ji         ip-    i-ja      oʒ-        i-jo   /
+ first-hand person.excessive evaluation.lacking
+ first-hand crowd            badness
+ I know that crowds are bad.
+```
+
+== Contexts
+
+[cols="2,2,6", options="header"]
+|===
+^| group
+| context
+| meaning
+
+.3+^.^| i +
+evidentiality
+
+| ji
+| I am completely sure +
+(for sharing first-hand accounts, sharing beliefs)
+
+| jija
+| I was given evidence +
+(for sharing information without claiming anything about validity)
+
+| jijo
+| no evidence is needed +
+(for stating facts)
+
+.3+^.^| o +
+agency
+
+| jo
+| it's just the way things are +
+(for taking blame away from anyone, expressing that you expected it)
+
+| joji
+| internal motivation +
+(for placing blame on the `actor`)
+
+| joja
+| external motivation +
+(for taking blame away from the `actor`)
+
+.3+^.^| a +
+state
+
+| ja
+| it is made to be +
+(for commanding, storytelling, sharing what you did or will do)
+
+| jaji
+| I think it should be +
+(for weighing in, dreaming, sharing opinions)
+
+| jajo
+| you think it should be +
+(for positing, questioning, clarifying)
+|===

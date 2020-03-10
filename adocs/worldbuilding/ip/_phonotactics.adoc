@@ -1,0 +1,141 @@
+= Phonotactics
+
+== Morphemes
+
+There exist 51 possible morphemes, each of which always functions as an independent syllable. Consonant clusters and diphthongs are not present in _Ip_; that is, no morpheme is affected by its neighbors. For this reason, homonyms are possible, but homophones are not.
+
+42 of the morphemes are used as root words. These are formed from every combination of one consonant and one vowel, excluding `j`. It is not possible to add new root words in _Ip_, so the language relies heavily on context, compound words, and inflectional suffixes; the other 9 possible morphemes are used for those inflections. Inflections use `j` as a nucleus.
+
+In phonological terms:
+
+* a nucleus is always comprised of a single phoneme
+* a nucleus never has both an onset and a coda
+* no two consonants form a valid onset cluster
+
+[cols="21*^1"]
+|===
+3+| ip +
+^`/ip/`^
+3+| id +
+^`/id/`^
+3+| ik +
+^`/ik/`^
+3+| in +
+^`/in/`^
+3+| ir +
+^`/iɾ/`^
+3+| if +
+^`/iɸ/`^
+3+| iz +
+^`/iʒ/`^
+
+3+| pi +
+^`/pi/`^
+3+| di +
+^`/di/`^
+3+| ki +
+^`/ki/`^
+3+| ni +
+^`/ni/`^
+3+| ri +
+^`/ɾi/`^
+3+| fi +
+^`/ɸi/`^
+3+| zi +
+^`/ʒi/`^
+
+7+| i +
+^`/i/`^
+7+| ija +
+^`/i-ja/`^
+7+| ijo +
+^`/i-jo/`^
+
+3+| op +
+^`/op/`^
+3+| od +
+^`/od/`^
+3+| ok +
+^`/ok/`^
+3+| on +
+^`/on/`^
+3+| or +
+^`/oɾ/`^
+3+| of +
+^`/oɸ/`^
+3+| oz +
+^`/oʒ/`^
+
+3+| po +
+^`/po/`^
+3+| do +
+^`/do/`^
+3+| ko +
+^`/ko/`^
+3+| no +
+^`/no/`^
+3+| ro +
+^`/ɾo/`^
+3+| fo +
+^`/ɸo/`^
+3+| zo +
+^`/ʒo/`^
+
+7+| o +
+^`/o/`^
+7+| oji +
+^`/o-ji/`^
+7+| oja +
+^`/o-ja/`^
+
+3+| ap +
+^`/ʋap/`^
+3+| ad +
+^`/ʋad/`^
+3+| ak +
+^`/ʋak/`^
+3+| an +
+^`/ʋan/`^
+3+| ar +
+^`/ʋaɾ/`^
+3+| af +
+^`/ʋaɸ/`^
+3+| az +
+^`/ʋaʒ/`^
+
+3+| pa +
+^`/pʋa/`^
+3+| da +
+^`/dʋa/`^
+3+| ka +
+^`/kʋa/`^
+3+| na +
+^`/na/`^
+3+| ra +
+^`/ɾa/`^
+3+| fa +
+^`/ɸʋa/`^
+3+| za +
+^`/ʒʋa/`^
+
+7+| a +
+^`/ʋa/`^
+7+| aji +
+^`/ʋa-ji/`^
+7+| ajo +
+^`/ʋa-jo/`^
+|===
+
+
+== Stress
+
+_Ip_ is head-first, even in pronunciation. Root words are stressed. The first root word is additionally stressed. This document will not mark stress except in the following example:
+
+```
+inaifija
+
+/''in-   ʋa-      'iɸ-        i-ja     /
+ terrain.abstract-temperature.excessive
+ planet-          hot
+ sun
+```

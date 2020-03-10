@@ -1,0 +1,46 @@
+= Morphology
+
+== Inflectional Affixes
+
+[cols="2,2,6", options="header"]
+|===
+^| group
+| inflection
+| meaning
+
+.3+^.^| i +
+amount
+
+| -i
+| complete, full
+
+| -ija
+| overflowing, excessive
+
+| -ijo
+| empty, lacking
+
+.3+^.^| o +
+hierarchy
+
+| -o
+| essential quality
+
+| -oji
+| inhabitant
+
+| -oja
+| place
+
+.3+^.^| a +
+relation
+
+| -a
+| abstract or in general
+
+| -aji
+| relative to speaker
+
+| -ajo
+| relative to addressee
+|===

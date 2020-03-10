@@ -1,0 +1,17 @@
+* can be grouped as:
+** 6 groups of 7
+** 14 groups of 3
+** 10 groups (3 of 7 & 7 of 3)
+** 2 categories of 3 groups of 7
+** 2 categories of 7 groups of 3
+
+. person/human (allows pronouns? relationships?)
+. land/terrain (_ijo_ = sea?)
+. temperature/energy
+. evaluation/judgement (allows good/bad)
+. activity
+. motion (allows time, progress)
+. property/ownership
+. document/writing/telling
+. appearance
+. food/eating

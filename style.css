@@ -53,3 +53,11 @@ main {
 	flex-grow: 1;
 	padding-bottom: 50vh;
 }
+p,
+ul,
+ol,
+.tableblock table,
+.admonitionblock {
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+}

@@ -1,0 +1,63 @@
+= Phonology
+
+== Consonants
+
+[cols=">4,3*^2"]
+|===
+| 
+| bi-labial
+| post-alveolar
+| velar
+
+| plosive
+| `p`
+| `d`
+| `k`
+
+| nasal
+| 
+| `n`
+| 
+
+| tap
+| 
+| `r /ɾ/`
+| 
+
+| fricative
+| `f /ɸ/`
+| `z /ʒ/`
+| 
+
+| approximant
+| 
+| 
+| `j`
+|===
+
+== Vowels
+
+[cols=">4,3*^2"]
+|===
+| 
+| front
+| central
+| back
+
+| close
+| `i`
+| 
+| 
+
+| mid
+| 
+| 
+| `o`
+
+| open
+| 
+| 
+| `a /ʋa/` (`a /a/`)^1^
+|===
+
+NOTE: ^1^ `a` is pronounced `/a/` only when following `n`, `r`, and `j` in the syllable. Otherwise, it is pronounced `/ʋa/`.
