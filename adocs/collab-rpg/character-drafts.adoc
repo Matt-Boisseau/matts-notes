@@ -1,0 +1,31 @@
+= Character Ideas
+
+== Vending Machine Bot
+
+* sturdy, but slow and clumsy
+* cute/charming
+* can be modded to carry weapons or whatever
+* malfunctions when heavily damaged (+ damage, - everything else)
+* always carries a few essentials (food, water, ammo, whatever), which can be purchased by other players or NPCs
+* needs to recharge regularly
+* can tuck in arms/legs to hide in plain sight as a vending machine
+* target for theft/vandalism if left alone
+
+[cols="4,3,3",options="header"]
+|===
+| move
+| pass
+| miss
+
+| spit out a random item
+| it's somehow exactly what you needed
+| it makes the situation worse
+
+| play a jingle, do a dance, and hand out free snacks
+| build trust (and brand loyalty) with nearby characters
+| your little dance and catchy jingle are annoying or offensive
+
+| anti-theft alarm (when you take damage)
+| nearby friendly or neutral characters rush to your aid
+| nearby unfriendly or neutral characters rush in to steal your snacks
+|===
