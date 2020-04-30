@@ -1,0 +1,232 @@
+= Nuclear Monster
+
+== 1. Basic Concept
+
+Some sort of mechanical monster... an automation attempt gone wrong? ghost of a scientist/engineer? energy-eater (alien???) trying to feed? plant monster that needs steam to grow/reproduce?
+
+Alien that kills people and pretends to be them
+
+Electricity-feeding alien
+
+Monster eggs in lake, get sucked up into power plant, feed off of steam -> people notice that the plant is generating less power (because they're taking it and multiplying) -> engineer who goes to investigate finds them and deicides to nurture them -> engineer calls in the hunters "because authorities won't take it seriously" (but actually he was just looking for a group to feed)
+
+== 2. Hook
+
+Something is trying to take control of the nuclear power plant. Authorities have shut down the plant for now, but they aren't really taking it seriously. We need to move fast, or something bad could happen.
+
+Alternate: Under-construction plant has been seen operating lately. Nobody knows who or what is causing it. Some are worried about unsafe tampering, but authorities aren't taking it seriously, as it could be tests or something. (Something monster-y needs to be reported, so the monster hunters have a reason to go in.)
+
+== 3. Threats
+
+=== Monster
+
+==== Blob
+
+[cols="3,7"]
+|===
+| motivation
+| parasite (to infest, control, devour)
+
+.3+| powers
+| regenerate and multiply in a source of heat
+| change form to fit in small spaces or crudely imitate other things
+| split into many smaller creatures and reform into one large creature
+
+| weaknesses
+| cold (or extended lack of heat)
+
+.2+| attacks
+| engulf a creature to leech its heat `2-harm` `intimate` `ignore-armor` `drain` `hold`
+| lash out with a temporary appendage `3-harm` `close`
+
+| armor
+| 0
+
+| harm capacity
+| 20
+
+.3+| custom moves
+| split off a mini-monster with any amount of harm capacity by taking that much harm
+| re-absorb a mini-monster and heal for its remaining harm capacity
+| move at extreme speeds when below half-size
+|===
+
+=== Minions
+
+==== Mini-Blobs
+
+[cols="3,7"]
+|===
+| motivation
+| plague (to swarm and destroy)
+
+| powers
+| change form to fit in small spaces or crudely imitate other things
+
+| weaknesses
+| cold (or extended lack of heat)
+
+| attacks
+| lash out with a temporary appendage `2-harm` `close`
+
+| armor
+| 0
+
+| harm capacity
+| 5 (or however much the monster splits off)
+
+.2+| custom moves
+| return to the primary monster to heal it
+| move at extreme speeds
+|===
+
+==== Dr. Leech
+
+Dr. Leech is the head engineer at the plant. He is very outwardly unhappy about working in "industrial" instead of "academic." He discovered the Blob and wants to protect it, thinking it's his big ticket. When he realizes just how much danger he's created, he wants to prevent anyone from finding out. He is able to control it by manipulating heat throughout the facility. He wears a cold-emitting apparatus hidden under his lab coat, which wards off the blob.
+
+[cols="3,7"]
+|===
+| motivation
+| guardian (to bar a way or protect something)
+
+| powers
+| control any part of the power plant
+
+| weaknesses
+| -
+
+| attacks
+| taser `1-harm` `close` `stun`
+
+| armor
+| 0
+
+| harm capacity
+| 3
+
+.2+| custom moves
+| call the monster to any room
+| control machinery
+|===
+
+=== Bystanders
+
+==== Officer Dotty
+
+Nuclear-gone-wrong is a big deal. As the head of security here, she wants to be the one to get to the bottom of things. She doesn't know anyone very well, and is generally blunt and suspicious.
+
+[cols="3,7"]
+|===
+| motivation
+| busybody (to get in the way)
+
+| what do they know about the situation?
+| looks like sabotage - an inside job
+
+| what do they do?
+| barge into rooms, demand answers, be generally tactless
+
+| what do they want from the hunters?
+| cooperation and subordination
+|===
+
+==== Foreman Davis
+
+Davis called the hunters because local authorities weren't willing to listen to his "superstitions." He's thankful to have the hunters, and a bit annoyed with Dotty.
+
+[cols="3,7"]
+|===
+| motivation
+| detective (to rule out explanations)
+
+| what do they know about the situation?
+| weird stuff has been happening: things move when you're not looking, people stop coming to work, equipment malfunctions constantly
+
+| what do they do?
+| patiently cooperate with the hunters, provide knowledge about the facility, trust everyone
+
+| what do they want from the hunters?
+| figure out what's _really_ happening
+|===
+
+==== Sheryl Bent
+
+Sheryl is the building admin. She doesn't understand all the science stuff, but she knows the scientists and engineers well. She has to be there to let non-standard personnel in and out.
+
+[cols="3,7"]
+|===
+| motivation
+| gossip (to pass on rumors)
+
+| what do they know about the situation?
+| not much, except lots of people have quit lately, citing "personal reasons" - she thinks the place is probably haunted
+
+| what do they do?
+| hang around, see bad stuff, get into trouble
+
+| what do they want from the hunters?
+| get this over with so we can go home
+|===
+
+=== Locations
+
+==== Offices
+
+[cols="3,7"]
+|===
+| motivation
+| hub (to reveal information)
+|===
+
+==== Reactor Chamber
+
+[cols="3,7"]
+|===
+| motivation
+| den (to harbor monsters)
+|===
+
+==== Turbine Chamber
+
+[cols="3,7"]
+|===
+| motivation
+| deathtrap (to harm intruders)
+|===
+
+
+==== Plant Grounds (outside)
+
+[cols="3,7"]
+|===
+| motivation
+| maze (to confuse and separate)
+|===
+
+== 4. Countdown
+
+NOTE: These are metaphorical time periods, not literal. They represent increasingly bad things that will happen if nobody interferes.
+
+[cols="3,7",options="header"]
+|===
+| time
+| event
+
+| day
+| Sheryl Bent is killed by the Blob
+
+| shadows
+| Officer Dotty begins an investigation around Sheryl, learns too much, and is killed by Dr. Leech
+
+| sunset
+| Foreman Davis and workers are killed by the Blob while trying to fix the turbines
+
+| dusk
+| Dr. Leech realizes he's in too deep and tries to shut down the reactor, but is killed by the Blob before he can finish
+
+| nightfall
+| the reactor fails catastrophically--the Blob becomes more powerful
+
+| midnight
+| an increasing number of huge, radioactive Blobs grow out of control and kill thousands before the military is able to destroy them
+|===

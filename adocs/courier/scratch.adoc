@@ -1,5 +1,49 @@
 = Courier Scratch
 
+== Relic Types
+
+* weapon
+* tool
+* instrument
+* adornment
+
+== Action Types
+
+above range: effect only
+in range: consequence and effect
+below range: consequence only
+
+[cols=">2,4,4",options="header"]
+|===
+| action
+| effect
+| consequence
+
+| duel
+| target yields or retreats
+| you yield or retreat
+
+| convince
+| target commits to doing as you say
+| target's resistance to this idea increases
+
+| force
+| target is moved or broken
+| 
+
+| inspire/rally
+| target participates in your next action
+| target actively opposes your next action
+
+| chat
+| target becomes one level friendlier toward you
+| target becomes one level less friendly toward you
+
+| tinker
+| target returns to a normal functioning state
+| target's resistance to being fixed increasesc
+|===
+
 * 78 cards
 ** 22 major arcana
 *** 13 NPC lords

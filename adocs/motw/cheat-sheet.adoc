@@ -1,0 +1,252 @@
+= MotW Cheat Sheet
+
+This page is sort of a paraphrasing-mixed-with-personal-take of the Monster of the Week rules.
+
+Your principles are the things you should say; your moves are designed to support you in sticking to your agenda.
+
+== Agenda
+
+[cols="3,7"]
+|===
+| Make the world seem real.
+| Describe the world in a way that makes sense. Most things are going to be the same as IRL. Magic and monsters should be consistent.
+
+| Play to see what happens.
+| Let the story develop naturally. You decide what will happen if the hunters don't get involved, not what happens to the hunters (use moves for that).
+
+| Make the hunters' lives dangerous and scary.
+| Hunters are cool action heroes, so they need to be dealing with horrific and overwhelming stuff. Harder == more rewarding.
+|===
+
+== Principles
+
+[cols="3,7"]
+|===
+| Put horror in everyday situations.
+| This makes the horror hit home. The victims are regular people, just like us.
+
+| Address the hunters, not the players.
+| It's not about what the players would do, but what their characters do.
+
+| Make your move, but never use its name.
+| Don't tell the players which move you're picking; tell them what happens in the story. To the players, things happen because they make sense, not because you picked them.
+
+| Be a fan of the hunters.
+| We're here to see how awesome they can be. Make it hard only so you can see how they win.
+
+| Nothing is safe.
+| This is a horror game. Monsters are going to kill people (or worse) unless the hunters stop them. When the hunters track down monsters, let them die. Let stuff burn, explode, etc.
+
+| Name everyone and make them seem life normal folks.
+| Make the hunters want to save these helpless people.
+
+| Ask questions and build on the answers.
+| When you don't know, let the players fill in the blanks. Yes-and. Remember what they say and use it.
+
+| Give them what they earned, not what they wanted.
+| Follow the rules. Don't give them shortcuts and hints they haven't earned.
+
+| Think about what's happening off-screen.
+| What you're focused on isn't the only thing that's happening. What is the monster doing? What are the victims and minions doing? Who's in danger? What are the hunters missing?
+
+| Everything is a threat.
+| There's more to the game than the monster and minions. Bystanders, locations, etc are all going to get in the way.
+|===
+
+== Always Say
+
+[cols="3,7"]
+|===
+| Say something that the principles demand.
+| The principles keep the game grounded in action-horror, and help you decide what will come next.
+
+| Say what the rules demand.
+| When someone makes a move, follow the rules. Don't apply rules inconsistently or make exceptions.
+
+| Say what your mystery demands.
+| If the countdown says something will happen, it happens. Keep to what you prepared.
+
+| Say what honesty demands.
+| Let the hunters know anything they should be aware of. They're experts. Don't let dumb, unsaid stuff trip them up.
+|===
+
+== Moves
+
+Remember to make the players roll whenever they say something that lines up with a move.
+
+Lead with soft moves (warnings, impedances), then follow up with hard moves (harm, consequences) if the hunters can't (or choose not to) stop them.
+
+Make hard moves without warning if they do something knowing the consequences, roll a 6 or lower, or are doomed (no luck left).
+
+=== Keeper Moves
+
+[cols="3,7"]
+|===
+| Separate them.
+| Narrate anything that gets the hunters away from each other. Don't ask them to split up; force them or just tell them it happens.
+
+| Reveal future badness.
+| Hint at something they'll need to deal with later. It can be obvious, like a monster approaching, or subtle, like evidence of what the monster can do.
+
+| Reveal off-screen badness.
+| Hint at something that wasn't dealt with; it's too late. Use distant noises or even cut away from the hunters (like a TV show).
+
+| Inflict harm as established.
+| Deal damage as previously established (seen by the hunters) or commonly understood (normal weapons or injuries). They should know about how much harm they'll take before you say it.
+
+| Make them investigate.
+| This keeps the game moving. When they are stumped, ask them where they'd like to look next, who they want to ask, etc. *Make sure they get results.*
+
+| Make them acquire stuff.
+| If they're going to need something, send them to get it. Ask them how they want to find it, steal it, pay for it, etc.
+
+| Tell them the possible consequences and ask.
+| If they want to do something, let them know what they'll have to do to earn it. Don't say no. Tell them a price to pay or a consequence. (The consequence can even be a move: "you can do it, but you'll need to act under pressure.")
+
+| Offer an opportunity, maybe with a cost.
+| Like above, except you offer whatever it is they need. Give them something that would move the story forward, but at a cost.
+
+| Turn their move back on them.
+| *Whenever a hunter misses a roll*, their move has the opposite effect. If they were trying to protect someone, they make it worse. If they were investigating, they revealed something to the monster.
+
+| Take away some of their stuff.
+| Either permanently or temporarily, give them a disadvantage.
+
+| Put someone in trouble.
+| Hunters have to save people, so give them people to save. Threaten bystanders.
+
+| Make a threat move from the current mystery's threats.
+| Each type of threat has its own moves. Use these when the threat is present and active.
+|===
+
+=== Monster Moves
+
+Monsters are the key threat, always there in the shadows, behind everything that's happening. They are dangerous and scary, but also remote (at first). Don't be afraid to let it use its moves to get out of trouble or go all out in the finale.
+
+[cols="3*"]
+|===
+| Hint at its presence.
+| Display its full might.
+| Appear suddenly.
+| Attack with great force and fury.
+| Seize someone or something.
+| Attack with stealth and calculation.
+| Order underlings to do terrible acts.
+| Destroy something.
+| Escape, no matter how well contained it is.
+| Give chase.
+| Return to home ground.
+| Boast and gloat, maybe revealing a secret.
+| Return from seeming destruction.
+| Use an unnatural power.
+| 
+|===
+
+=== Minion Moves
+
+Minions are there to support and guard the monster.
+
+[cols="3*"]
+|===
+| A burst of sudden, uncontrolled violence.
+| Make a coordinated attack.
+| Capture someone, or steal something.
+| Reveal a secret.
+| Deliver someone or something to the master.
+| Give chase.
+| Make a threat or demand on behalf of the master.
+| Run away.
+| Use an unnatural power.
+| Display a hint of conscience or humanity.
+| Disobey the master, in some petty way.
+| 
+|===
+
+=== Bystander Moves
+
+Bystanders don't intend to cause trouble, but they do so anyway.
+
+[cols="3*"]
+|===
+| Go off alone.
+| Argue with the hunters.
+| Get in the way.
+| Reveal something.
+| Confess their fears.
+| Freak out in terror.
+| Try to help the hunters.
+| Try to protect people.
+| Display inability or incompetence.
+| Seek help or comfort.
+| 
+| 
+|===
+
+=== Location Moves
+
+Locations don't have intentions; they stand in for things that go wrong around the hunters.
+
+[cols="3*"]
+|===
+| Present a hazard.
+| Reveal something.
+| Hide something.
+| Close a way.
+| Open a way.
+| Reshape itself.
+| Trap someone.
+| Offer a guide.
+| Present a guardian.
+| Something doesn't work properly.
+| Create a particular feeling.
+| 
+|===
+
+=== Hunter Miss Moves
+
+[cols="3,7"]
+|===
+| act under pressure
+| Things go to hell for that hunter.
+
+| help out
+| The hunter exposes themselves to trouble or danger.
+
+| kick some ass
+| The hunter gets their ass kicked.
+
+| protect someone
+| The hunter makes things worse.
+
+| manipulate someone
+| The hunter angers or offends the target.
+
+| investigate a mystery
+| The hunter reveals something to the monster or whoever they're talking to.
+
+| read a bad situation
+| The hunter reads the situation all wrong.
+
+| use magic
+| The hunter loses control of the magic and anything can happen.
+|===
+
+=== Harm Moves
+
+[cols="3,7"]
+|===
+.3+| 0-harm
+| Momentarily inhibited.
+| Drop something.
+| Take -1 forward.
+
+.5+| 1-harm or more
+| (any of the 0-harm moves)
+| Fall down.
+| Take -1 ongoing.
+| Pass out.
+| Intense pain.
+
+| unstable wounds
+| +1 harm.
+|===

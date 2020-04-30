@@ -1,0 +1,73 @@
+= Common Measurements
+
+[cols="4,4,1,1",options="header"]
+|===
+^| item
+| part
+| min (in)
+| max (in)
+
+.3+^.^| stairs
+| rise
+| | 7
+| run
+| 11 | 
+| headroom
+| 80 | 
+
+.1+^.^| ceilings
+| residential & commercial
+| 96 | 144
+
+.4+^.^| doors
+| interior door
+2+| 80x32x11/8
+| interior frame
+2+| 1 around
+| exterior door
+2+| 80x34x7/4
+| exterior frame
+2+| 2 around
+
+.9+^.^| windows
+| top (from floor)
+2+| 80
+| single/double hung width
+| 24 | 24
+| single/double hung height
+| 36 | 62
+| sliding width
+| 24 | 48
+| sliding height
+| 24 | 36
+| casement width
+| 25 | 39
+| casement height
+| 35 | 59
+| picture width
+| 24 | 96
+| picture height
+| 12 | 96
+
+.3+^.^| guardrails
+| platform with no railing
+| | 30
+| railing height
+| 36 | 42
+| sweep space & infill openings
+| | 4
+
+.1+^.^| hallways
+| width
+| 32 | 
+
+.2+^.^| walls
+| interior
+| 4 | 6
+| exterior
+| 6 | 8
+
+.1+^.^| floors
+| floor
+| 12 | 14
+|===
