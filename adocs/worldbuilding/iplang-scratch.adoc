@@ -1,0 +1,55 @@
+consonant-first words can be modified into:
+
+* i
+** [word] in its fullest, most realized
+** more than enough to be [word]
+** not enough to be [word]
+* a
+** essential quality of [word]
+** containing or made up in part by [word]
+** contained within or a component of [word]
+* o
+** all instances of [word] (otherwise assumed to be a subset based on context)
+** ???
+** ???
+
+words chained
+
+`[word]-of-[word]-of-[word]`
+
+words
+
+* human, person
+* society, citizens-as-a-whole
+* animal, plant
+* terrain, earth
+* water, liquid
+* air, gas
+* tool, instrument
+* creation, result
+* art, expression
+* container, building
+* director, instructor
+* heat, energy
+* motion, progress
+* due, obligation
+
+* color
+* mass
+* sensation
+
+example compounds
+
+* tool-director: controller, remote, control panel, switch, etc
+* director-tool: the guy who uses this tool
+* director-(tool-o): the guy who's in charge of tools
+
+* color-terrain: brown, like dirt
+* (color-iya)-terrain: vividly brown
+* color-(terrain-iya): white? like a mountain
+
+* sensation: kind of ambiguous, general
+* sensation-"nose": smell
+* sensation-"mouth": taste
+* sensation-"hand": texture
+* sensation-"eye": shape

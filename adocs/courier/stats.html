@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+body {
+	background-color: #123;
+	color: #987;
+	font-family: monospace;
+	white-space: pre;
+}
+.rate {
+	display: inline-block;
+	text-align: right;
+	width: 30px;
+}
+		</style>
+		<script>
+window.onload = () => {
+
+	const output = "";
+	const labelSize = 12;
+	const successThresholds = [
+		[0, 4],		// neutral		doesn't care
+		[5, 9],		// unwilling	doesn't want it
+		[10, 14],	// resistant	is actively resisting
+		[15, 19],	// protected	has prepared a defense
+		[20, 24],	// impossible	shouldn't be affected
+	];
+
+	function printLine(string, label) {
+		label = label?label:' ';
+		label = (label + Array(labelSize).join(' ')).substring(0, labelSize);
+		output += `${label}${string}<br/>`;
+	}
+
+	function clearOutput() {
+		output = "";
+		renderOutput();
+	}
+
+	function renderOutput() {
+		document.querySelector('#output').innerHTML = output;
+	}
+
+	function sortNumbers(array) {
+		return array.sort((a, b) => a - b).reverse();
+	}
+
+	function sumNumbers(array) {
+		return array.reduce((a, b) => a + b, 0);
+	}
+
+	function numberToPercentage(number, total) {
+		let percentage = Math.round(20 * number / total) * 5;
+		switch (percentage) {
+			case 100:
+				return '💯';
+			case 0:
+				return '';
+			default:
+				return percentage;
+		}
+	}
+
+	// get an array of results for a given roll/keep combination
+	function roll(numRolled, numKept) {
+
+		let results = [];
+
+		/* total number of possible results is the number of sides to
+			the power of the number of dice */
+		for (i = 0; i < Math.pow(6, numRolled); i++) {
+
+			// generate a sequence [[1,1,1...]...[6,6,6...]]
+			let rolledValues = [];
+			for (j = 0; j < numRolled; j++) {
+				rolledValues[j] = Math.floor(i / (Math.pow(6, j))) % 6 + 1;
+			}
+
+			// printLine(rolledValues, 'roll');
+
+			// keep highest dice (according to numKept)
+			let kept = [];
+			kept = sortNumbers(rolledValues).splice(0, numKept);
+
+			// printLine(kept, `keep ${numKept}`);
+			// printLine(rolledValues, 'remainder');
+
+			// keep one from every remaining pair
+			for (j = 0; j < rolledValues.length - 1; j++) {
+				if (rolledValues[j] == rolledValues[j + 1]) {
+					j++;
+					kept.push(rolledValues[j]);
+				}
+			}
+
+			// total up the result
+			results[i] = sumNumbers(kept);
+
+			// printLine(kept, 'keep pairs');
+			// printLine(results[i], 'total');
+			// printLine("");
+		}
+
+		return sortNumbers(results);
+	}
+
+	function successRate(rollResults, range) {
+
+		let below = 0;
+		let within = 0;
+		let above = 0;
+
+		for (i = 0; i < rollResults.length; i++) {
+			if (rollResults[i] < range[0]) {
+				below++;
+			}
+			else if (rollResults[i] > range[1]) {
+				above++;
+			}
+			else {
+				within++;
+			}
+		}
+
+		return {
+			below: numberToPercentage(below, rollResults.length),
+			within: numberToPercentage(within, rollResults.length),
+			above: numberToPercentage(above, rollResults.length)
+		};
+	}
+
+	function plotRates(maxDice, maxKept) {
+
+		for (dice = 0; dice < maxDice; dice++) {
+
+			let row = document.createElement('tr');
+			document.querySelector('#rates').appendChild(row);
+
+			for (kept = 0; kept < maxKept; kept++) {
+
+				let cell = document.createElement('td');
+				row.appendChild(cell);
+
+				if (kept <= dice) {
+
+					let rates = [];
+					for (threshold = 0; threshold < successThresholds.length; threshold++) {
+						rates[threshold] = successRate(roll(dice + 1, kept + 1), successThresholds[threshold]);
+					}
+
+					//cell.innerHTML = rates.join('<br/>');
+
+					rates.forEach(rate => {
+						cell.innerHTML += `<span class="rate">${rate.below}</span><span class="rate">${rate.within}</span><span class="rate">${rate.above}</span><br/>`;
+					});
+				}
+			}
+		}
+	}
+
+	renderOutput();
+	plotRates(7,7);
+}
+		</script>
+	</head>
+	<body>
+		<table id="rates"></table>
+		<span id="output">loading...</span>
+	</body>
+</html>

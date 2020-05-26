@@ -1,0 +1,53 @@
+= spectrum ranges
+
+== 20-60 sub-bass
+
+* felt more than heard
+* too much: overly powerful
+* too little: weak, thin
+
+== 60-250 bass
+
+* how fat/thin the sound is
+* fundamental notes of rhythm
+* usually 90-200
+** boost around 250 can add warmth without loss of definition
+* too much: boomy
+
+== 250-500 low midrange
+
+* "bass presence"
+* boost around 300 can add clarity to bass
+* too much: muddy
+
+== 500-2000 midrange
+
+* determines how prominent an instrument is in the mix
+* boost around 1000 can give a horn-like quality
+* too much: tinny, ear fatigue
+
+== 2000-4000 upper midrange
+
+* human hearing is very sensitive here -- tiny change can result in huge change to timbre
+* attack on percussive/rhythm instruments
+* boost can add presence
+* too much: ear fatigue
+
+== 4000-6000 presence
+
+* clarity/definition
+* too much: irritating, harsh sound
+* too little: distant, transparent
+
+== 6000-20000 brilliance
+
+* entirely harmonics
+* "sparkle" and "air" of a sound
+* boost around 12000 makes a "hi-fi" sound
+* too much: ear fatigue
+
+= pink noise balance
+
+20 | -35
+80 | -30
+20000 | -60

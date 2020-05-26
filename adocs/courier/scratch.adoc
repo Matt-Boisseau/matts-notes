@@ -13,6 +13,51 @@ above range: effect only
 in range: consequence and effect
 below range: consequence only
 
+[cols="1,2,4,1,1,1",options="header"]
+|===
+| 
+| will
+| description
+| min kept dice to possibly go within or above
+| min kept dice to never go below
+| min kept dice to always go above
+
+| 0-4
+| neutral
+| doesn't care
+| 1
+| 1
+| 3
+
+| 5-9
+| unwilling
+| doesn't want it
+| 1
+| 3
+| 5
+
+| 10-14
+| resistant
+| is actively resisting
+| 2
+| 5
+| 7
+
+| 15-19
+| protected
+| has prepared a defense
+| 3
+| 7
+| 
+
+| 20-14
+| impossible
+| shouldn't be affected
+| 4
+| 
+| 
+|===
+
 [cols=">2,4,4",options="header"]
 |===
 | action

@@ -1,0 +1,50 @@
+= Entropy Scoring
+
+Multiply entropy by number of people affected. Round to 2 significant figures (1, 11, 110, 1100, etc)
+
+[cols=">1,1,4,4",options="header"]
+|===
+| entropy | category | more entropy | less entropy
+
+| 5
+| life and death
+| murder or indirectly causing people to die
+| protecting or indirectly preventing murder
+
+| 4
+| ecosystem, sustainability
+| disruption or destruction of natural forces that people and animals rely on
+| protection or reinforcement of natural forces that people and animals rely on
+
+| 3
+| security, wellness
+| disabling or taking away a person's means or self-sufficiency (permanent injuries, economic disaster, etc)
+| enabling a person to live and thrive
+
+| 2
+| comfort, happiness
+| causing temporary distress (including transient injuries)
+| alleviating temporary distress or providing meaningful comfort or amusement
+
+| 1
+| truth?
+| deception
+| revealing secrets
+
+| 0
+3+| neutral or insignificant activities
+|===
+
+1500 people live on an island. 100 fishers are fishing a certain kind of fish to extinction. If the fish go extinct, people on the island will need to find another source of food.
+
+If the players stop the overfishing:
+
+[cols="3,1,1,5",options="header"]
+|===
+| item | entropy | people affected | subtotal
+| ecosystem protected | +4 | 1500 | +60000
+| people out of job | -3 | 100 | -300
+| total 3+| +50700
+|===
+
+*This means players are empowered to weigh outcomes and make educated decisions.*

@@ -1,0 +1,254 @@
+= Character Sheet
+
+== Info
+
+[cols=">2h,8"]
+|===
+| name | 
+| description | 
+|===
+
+== Reputation
+
+[cols=">2h,8"]
+|===
+| social boon | 
+| social trap | 
+|===
+
+[cols="2,1,7",options="header"]
+|===
+| faction
+| dues
+| notes
+
+| 
+| &nbsp;
+| 
+
+| 
+| &nbsp;
+| 
+
+| 
+| &nbsp;
+| 
+|===
+
+== Vulnerabilities
+
+[cols="1,3,2,2,2"]
+|===
+.2+>.>h| vulnerability
+.2+.>h| when to mark
+h| trivial
+h| minor
+h| major
+
+| _inconvenience_
+| _state of higher risk_
+| _unavoidable deterioration_
+
+| 
+a|
+* &nbsp;
+* &nbsp;
+* &nbsp;
+| 
+| 
+| 
+
+| 
+a|
+* &nbsp;
+* &nbsp;
+* &nbsp;
+| 
+| 
+| 
+
+| 
+a|
+* &nbsp;
+* &nbsp;
+* &nbsp;
+| 
+| 
+| 
+|===
+
+== Abilities
+
+[cols="1,3,7,3,3,3"]
+|===
+| bonus
+| name
+| when to roll
+| miss (2-6)
+| pass (7-11)
+| radical (12+)
+
+| +0
+| 
+| 
+| 
+| 
+| 
+
+| +0
+| 
+| 
+| 
+| 
+| 
+
+| +0
+| 
+| 
+| 
+| 
+| 
+|===
+
+---
+
+= Character Sheet
+
+== Info
+
+[cols=">2h,8"]
+|===
+| name | Vendo
+| description | a vending machine with legs, his mission is to build brand identity in the farthest reaches of the known universe
+
+can only talk by rearranging prerecorded marketing messages
+
+likes to take samples of stuff to send back to Vendo-Brand research
+
+eat Vendo it'll put you right in
+|===
+
+Inventory:
+
+* 2 quinto
+
+== Reputation
+
+[cols=">2h,8"]
+|===
+| social boon | loved by the kids and fat folk of the universe, respected by capitalist oligarchs
+| social trap | can't resist an opportunity to sell and promote Vendo-brand products
+|===
+
+[cols="2,1,7",options="header"]
+|===
+| faction
+| dues
+| notes
+
+| 
+| &nbsp;
+| 
+
+| 
+| &nbsp;
+| 
+
+| 
+| &nbsp;
+| 
+|===
+
+== Vulnerabilities
+
+[cols="1,3,2,2,2"]
+|===
+.2+>.>h| vulnerability
+.2+.>h| when to mark
+h| trivial
+h| minor
+h| major
+
+| _inconvenience_
+| _state of higher risk_
+| _unavoidable deterioration_
+
+| Electronic
+a|
+* long time without charge
+* hacking, tampering
+* exposure to magnets
+| *Malfunction.* -1 to random ability.
+| *System Failure.* On miss, ability is disabled.
+| *Powering Down.* On pass, -1 (stacking) to that ability.
+
+| Principled
+a|
+* inability to fulfill obligation
+* acting against personal values
+* views significantly challenged
+| Can't invoke social boon.
+| 
+| On pass, don't pick any effect or complication.
+
+| Physical
+a|
+* hit with a weapon
+* fall from significant height
+* heated or cooled to extremes
+| *Damaged.* +2 (stacking) to Anti-Theft Alarm. -1 to Jingle.
+| +2 (stacking) to Anti-Theft Alarm.
+| +2 (stacking) to Anti-Theft Alarm.
+|===
+
+== Abilities
+
+On a _miss_ (2-6), pick one complication. +
+On a _pass_ (7-12), pick one complication and one effect. +
+On a _radical!_ (13+), pick one effect and narrate something awesome.
+
+[cols="1,3,6,5,5",options="header"]
+|===
+| +
+| name
+| description
+| effects
+| complications
+
+| 1
+| Check Supply
+| Press the buttons in a specific way and something random will fall out.
+a| 
+* it's somehow exactly what you need right now
+a| 
+* take 1 Electronic damage
+* -2 to all abilities until you get rid of this thing
+
+| -2
+| Anti-Theft Alarm
+| Make a high-pitched noise to call for help.
+a| * nearby neutral characters (max 2) become allies until there's no danger
+* Vendo-Brand agents come out of the woodwork and are owed 1 due
+a| * nearby neutral characters (min 2) become enemies until the next time you take damage
+* the alarm doesn't stop, which makes you really unlikable
+
+| 1
+| The Vendo Brand Awareness Jingle
+| Do a cute little song-and-dance number to make friends.
+a| * gain 1 due with any nearby character
+* any 1 nearby character will help out by answering 1 question honestly or giving you something
+| 
+
+| 1
+| Just a Vending Machine
+| Pretend to be an inanimate object.
+a| * you are essentially invisible to anyone who hasn't seen you moving
+| 
+
+| 1
+| Vendo Market Research Database
+| Check the database basic info about places and people on well-known worlds.
+| 
+| 
+|===
+

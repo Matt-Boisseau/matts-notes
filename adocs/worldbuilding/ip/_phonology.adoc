@@ -60,4 +60,4 @@
 | `a /ʋa/` (`a /a/`)^1^
 |===
 
-NOTE: ^1^ `a` is pronounced `/a/` only when following `n`, `r`, and `j` in the syllable. Otherwise, it is pronounced `/ʋa/`.
+NOTE: ^1^ `a` is pronounced `/ʋa/` when following `p`, `d`, `k`, `f`, or `z`. It is pronounced `/a/` when following `n`, `r`, or `j`, as well as when beginning a word.

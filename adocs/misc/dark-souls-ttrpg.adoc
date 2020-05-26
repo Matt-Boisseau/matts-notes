@@ -1,0 +1,119 @@
+= Dark Souls Inspired TTRPG
+
+== Draft 1
+
+. UNCOMMITTED characters choose to MOVE or DEFEND.
+. All characters who chose to DEFEND pick a cardinal direction; they take no damage until they COMMIT, MOVE, pick a new DEFEND direction, or EXHAUST. DEFEND does not stop BACKSTABS. The order in which characters pick directions is determined by WEIGHT CLASS (heavier characters pick first).
+. All characters who chose to MOVE change position by a number of tiles based on their WEIGHT CLASS (lighter characters move farther). The order in which characters change position is determined by WEIGHT CLASS (heavier characters pick first).
+. UNCOMMITTED characters within ATTACK RANGE of each other...
+
+== Draft 2
+
+=== Encumbrance Lvelvs
+
+[options="header"]
+|===
+| Encumbrance | Equip Load | Movement | Dodge Commitment
+| Encumbered | 101-200% | 0 | 4
+| Slow | 51-100% | 1 | 3
+| Medium | 26-50% | 2 | 2
+| Fast | 0-25% | 3 | 1
+|===
+
+=== Positioning Phase
+
+ORDER: Encumbered-First
+
+At the beginning of this phase, all characters have COMMITMENT reduced by 1.
+
+In the Positioning Phase, each UNCOMMITTED character must choose to MOVE or DEFEND.
+
+A character can MOVE up to the number of tiles associated with its ENCUMBRANCE. The character also regains all of its STAMINA.
+
+A character that chooses to DEFEND [COMMIT 1] is impervious to the DAMAGE TYPES associated with its SHIELD (or just PHYSICAL in the case of no SHIELD). The character is not protected against CRITICALS. The character also regains half of its STAMINA.
+
+=== Weapon Speeds
+
+. Fast
+. Medium
+. Slow
+. Unable
+
+=== Action Phase
+
+ORDER: Fast-First
+
+At the beginning of this phase, all characters have COMMITMENT reduced by 1.
+
+In the Action Phase, each UNCOMMITTED character must choose to ATTACK, SPRINT, USE, or WAIT.
+
+A character can ATTACK the number of contiguous tiles associated with its WEAPON's REACH. At least one of the targeted tiles must be within the RANGE associated with the WEAPON.
+
+Any UNCOMMITTED character positioned in one of the targeted tiles must choose to PARRY, DODGE, or DEFEND.
+
+A character that chooses to DEFEND [COMMIT 1] is impervious to the DAMAGE TYPES associated with its SHIELD (or just PHYSICAL in the case of no SHIELD). The character is not protected against BACKSTABS. Characters who chose to 
+
+A character that chooses to DODGE [COMMIT X] (see "Encumberance Levels") moves 1 tile. If the character's new tile is still targeted, that player must roll against the attacker to avoid damage.
+
+A character that chooses to PARRY must roll against the attacker to avoid damage. If the character successfully avoids damage, it can choose to deal a CRITICAL...
+
+== Draft 3
+
+Each combat turn is split into the following phases:
+
+. *Positioning*
+.. HEAVY characters
+.. MEDIUM characters
+.. LIGHT characters
+. *Commitment*
+.. SLOW characters
+.. AVERAGE characters
+.. FAST characters
+
+In the case of multiple characters in one phase (e.g. two HEAVY characters), human players take precedence over their enemies. Within one phase, which individual character moves or acts first is irrelevant.
+
+=== Positioning
+
+When entering this phase, a character automatically reduces its COMMITMENT by 1 (with 0 as a minimum). Characters with 0 COMMITMENT are UNCOMMITTED.
+
+In this phase, an UNCOMMITTED character can choose to REPOSITION or DEFEND:
+
+* RESPOSITION. The character moves up to the number of tiles associated with its ENCUMBRANCE:
++
+|===
+| HEAVY | 1
+| MEDIUM | 2
+| LIGHT | 3
+|===
++
+The character also regains 2 STAMINA and all of its POISE.
+* DEFEND. For the DAMAGE TYPES associated with the character's SHIELD (or PHYSICAL in the case of no SHIELD), DAMAGE goes to STAMINA instead of HEALTH. CRITICAL HITS ignore this defense entirely. This state ends if the character gains any COMMITMENT or chooses to REPOSITION.
++
+The character also regains 1 STAMINA.
+
+=== Commitment
+
+Characters with 0 COMMITMENT are UNCOMMITTED.
+
+In this phase, an UNCOMMITTED character can choose to COMMIT to ATTACK or USE.
+
+* ATTACK. The character targets a contiguous pattern of tiles within the character's RANGE. The maximum number of targeted tiles is determined by the character's REACH. The character gains COMMITMENT based on its WEAPON.
++
+An UNCOMMITTED character with sufficient RANGE may COUNTER-ATTACK if they are faster. This COUNTER-ATTACK lands after the slower character gained COMMITMENT, but before its ATTACK lands. If the slower character is STAGGERED by a COUNTER-ATTACK, the ATTACK does not happen. A COUNTER-ATTACK resolves in the same way as a normal ATTACK, including the possibility of yet more COUNTER-ATTACKS from faster characters.
++
+An UNCOMMITED character in an ATTACK's targeted area can choose to DODGE or PARRY:
++
+** DODGE. The character moves 1 tile, loses 1 STAMINA, and gains COMMITMENT depending on its ENCUMBRANCE:
++
+|===
+| HEAVY | 2
+| MEDIUM | 1
+| LIGHT | 0
+|===
+** PARRY. The character attempts to CRITICAL HIT the attacking character. //?: how to determine? roll dice? slower weapons should be easier to parry?
+
++
+If the attacking character is not STAGGERED by a COUNTER-ATTACK or CRITICAL HIT by a PARRY, all characters in the targeted tiles receive DAMAGE of a type and amount determined by the WEAPON.
+* USE. The character uses a single CONSUMABLE from its inventory. The effect depends on the CONSUMABLE (e.g. HEALTH restoration). The character gains 1 COMMITMENT.
+
+Note that STAGGERED refers to any time a character has its POISE or STAMINA reduced to 0 by an ATTACK (or COUNTER-ATTACK). When this happens, the character's COMMITMENT is set to 2 and its POISE and STAMINA are fully restored.

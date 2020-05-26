@@ -1,0 +1,19 @@
+# Iplang Objectives
+
+The constructed language I'm calling _Iplang_ is, in fiction, created by and for a collective of highly industrial, organized, utilitarian humanoids. The language is therefore heavily engineered for symmetry, clarity, and conciseness.
+
+The culture that speaks _Iplang_ places significantly less weight on individualism than any modern Earth culture. _Iplang_ sentences cannot directly state approval nor opinion. Consider the following translated example:
+
+English: "Would you like some oranges?" "No, thanks; I don't like oranges."
+
+Iplang: "You will eat oranges?" "I will not eat oranges."
+
+Note that it may be appropriate in context to reply with a shortened version of the sentence, such as "not eating," or to skip an implied logical step with "I will eat apples."
+
+Considering the listener's probable understanding of a situation is very important in _Iplang_, because the language can be intensely verbose if no shortcuts are taken. A typical speaking strategy is to try to anticipate where the listener may have a misunderstanding and speak more clearly to that part. A back-and-forth can occur when one participant requires clarification, which can be often, as debate is a central pillar of _Iplang_ speakers' culture.
+
+In situations with less context, and when that back-and-forth is not possible, _Iplang_ words allow a speaker to constructively add information ad nauseum. The first phoneme in a word is its most basic meaning, and consecutive phonemes modify that word and each other. A useful way to think of this is that the most important part of a word must be spoken first in case the speaker is cut off.
+
+A lot of creativity can go into structuring words for speaking or writing efficiency. How much detail does the listener need to receive? Is there a shorter way to get to the same idea, more or less? Is a shortcut worth a slight inaccuracy?
+
+Words with one phoneme have exact definitions. Words with two phonemes have universally agreed upon meanings. As words get longer, there is less agreement on their exact meanings, so three phonemes is actually the least common word length--long words require more detail.

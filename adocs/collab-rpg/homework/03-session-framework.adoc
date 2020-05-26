@@ -1,0 +1,81 @@
+= Homework 3
+
+== Goals
+
+* vulnerabilities for your character
+* more fleshed out session framework
+* point values between (-100) - 100
+
+== Vendo's Vulnerabilities
+
+social: an asset of the invisible hand of Capitalism
+
+[cols="1,3,2,2,2"]
+|===
+.2+^.^| vulnerability
+.2+^.^| when to mark
+^.^| trivial
+^.^| minor
+^.^| major
+
+| _inconvenience_
+| _state of higher risk_
+| _unavoidable deterioration_
+
+| electronic
+a|
+* exposure to electricity
+* long time without charge
+* hacking
+| *Malfunction.* +
+Immediately and every 24 hours, one random ability gets -1. This effect stacks infinitely until repaired.
+| *System Failure.* +
+A miss disables the rolled ability until repaired.
+| *Powering Down.* +
+A success applies -1 to the rolled ability until repaired.
+
+| physical?
+a|
+* being hit, shot at, etc
+* falling
+* having stuff fall on you
+| 
+| 
+| 
+
+| uh?
+a|
+* ?
+* ?
+* ?
+| 
+| 
+| 
+|===
+
+== Framework
+
+=== Game "Pieces"
+
+* *Info.* Stuff to act on. Info leads the players to new Situations and Outcomes. Info informs moral decisions.
+* *Outcomes.* Consequences, rewards, narrative reveals, etc.
+* *Situations.* Little bubbled encounters that stand in the way of Info or Outcomes.
+
+=== Game "Phases"
+
+. *Brief.* Info you know before arrival.
+. *Arrival.* Info you learn on arrival. Situations you have to deal with right away. These PROMPT Exploration.
+. *Exploration.* Info and Situations you CAN run into if you dig in the right places. Some should be more hidden than others.
+. *Clockwork.* Stuff happening off-camera. This allows the GM to slowly reveal and introduce Info and Situations, as well as deliver Outcomes for plots that aren't interrupted.
+
+== Points
+
+effective points = multiply by sqrt of affected people?
+
+|===
+| points | action
+| 20 | save someone from murder
+| 10 | stop a fight
+| -10 | kill in self-defense
+| -20 | directly murder
+|===
